@@ -1,2 +1,5 @@
-# emacs-cider-intro
-Introduction to the Cider Clojure IDE for Emacs - https://www.gitbook.com/book/tbellisiv/clojure-emacs-cider-intro/welcome
+# clojure-emacs-cider-intro
+
+An introduction to the Cider Clojure IDE for Emacs
+
+Austin "EmacsATX" Meetup Presentation - https://www.meetup.com/EmacsATX/
