@@ -10,7 +10,7 @@ The goal of this presentation is to provide an introduction to CIDER for members
 
 This presentation assumes the reader is an active user of GNU Emacs and is comfortable with installation of Emacs packages and editing the Emacs initialization file (init.el).
 
-No prior experience with Clojure is assumed. Some Java development experience is helpful (but not required).
+No prior experience with Clojure is assumed. Some Java development experience is recommended but not required).
 
 # Disclaimer
 
