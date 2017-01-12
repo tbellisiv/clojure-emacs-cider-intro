@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Resources](Resources/README.md)
 * [Overview](Overview/README.md)
 * [Prerequisites](Prerequisites/README.md)
     * [Emacs 24.4 or later](Prerequisites/Emacs.md)
@@ -28,6 +27,7 @@
     * [Code Reloading](Misc/Code_Reloading.md)
     * [Enlighten Mode](Misc/Enlighten_Mode.md)
     * [Classpath Browser](Misc/Classpath_Browser.md)
+* [Resources](Resources/README.md)
     
     
     
