@@ -4,13 +4,13 @@ CIDER is an EMACS package that provides a full-featured interactive environment 
 
 CIDER is an acronym for the **C**lojure(Script) **I**nteractive **D**evelopment **E**nvironment that **R**ocks!
 
-The goal of this presentation is to provide an introduction to CIDER for active GNU Emacs users.
+The goal of this presentation is to provide an introduction to CIDER for members of the Austin, TX "EmacsATX" meetup group - https://www.meetup.com/EmacsATX/.
 
 # Audience
 
 This presentation assumes the reader is an active user of GNU Emacs and is comfortable with installation of Emacs packages and editing the Emacs initialization file (init.el).
 
-No experience with Clojure is assumed however Java experience is helpful but not required.
+No prior experience with Clojure is assumed however Java experience is helpful (but not required).
 
 # Contributions / Questions / Suggestions
 
