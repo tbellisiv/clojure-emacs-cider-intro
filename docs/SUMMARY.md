@@ -5,6 +5,7 @@
 * [Prerequisites](Prerequisites/README.md)
     * [Emacs 24.4 or later](Prerequisites/Emacs.md)
     * [Java 1.7 or later](Prerequisites/Java.md)
+    * [Clojure 1.7 or later](Prerequisites/Clojure.md)
     * [Leiningen](Prerequisites/Leiningen.md)
 * [Cider Setup](Setup/README.md)
 * [Sample Clojure Project](Sample_Project/README.md)
