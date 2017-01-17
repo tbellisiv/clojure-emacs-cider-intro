@@ -10,9 +10,11 @@ This presentation assumes the reader is an active user of GNU Emacs and is comfo
 
 No prior experience with Clojure is assumed. Some Java development experience is recommended but not required.
 
-# Disclaimer
+# Disclaimers
 
-I am fairly new to Clojure development and the CIDER Emacs package. Creating this presentation is as much a learning exercise for me much as I hope it is for you.
+I am fairly new to Clojure development and the CIDER Emacs package. Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
+
+0.14 is (was) the version of the most recent CIDER stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs/Java version), functionality and/or UI when using a version of CIDER other than 0.14.
 
 # Contributions / Questions / Suggestions
 
