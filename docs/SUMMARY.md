@@ -7,7 +7,7 @@
   * [Java 1.7 or later](Prerequisites/Java.md)
   * [Clojure 1.7 or later](Prerequisites/Clojure.md)
   * [Leiningen](Prerequisites/Leiningen.md)
-* [Cider Setup](Setup/README.md)
+* [Cider Setup](Installation/README.md)
 * [Sample Clojure Project](Sample_Project/README.md)
 * [Cider Basics](Basics/README.md)
   * [clojure-mode](Basics/Clojure_Mode/README.md)
