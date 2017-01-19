@@ -16,8 +16,11 @@ If you do not have the minimal version of Java required for CIDER installed ([Pr
 * Windows (Oracle Java):  [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html)
  | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-* Linux (OpenJDK): 
- 
+* Linux:
+ * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html) 
+ * Oracle Java:
+   * Generic:  [64-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFCDAIB) | [32-bit]()
+
 Ensure that:
 
  * JAVA_HOME points to the root of the Java install directory
