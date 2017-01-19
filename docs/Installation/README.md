@@ -81,4 +81,6 @@ Finally, validate your Leiningen install:
 
 ## CIDER
 
+CIDER is installed via Emacs's package management
+
 
