@@ -1,22 +1,22 @@
 # Introduction
 
-[CIDER](https://github.com/clojure-emacs/cider) is an EMACS package that provides a full-featured interactive environment for Clojure and ClojureScript development.
+[CIDER](https://github.com/clojure-emacs/cider) is an Emacs package that provides a full-featured interactive environment for Clojure and ClojureScript development.
 
 The goal of this presentation is to provide an introduction to CIDER for members of the Austin, TX "EmacsATX" meetup group - https://www.meetup.com/EmacsATX/.
 
 # Audience
 
-This presentation assumes the reader is an active user of GNU Emacs, is comfortable with installation of Emacs packages and with editing the Emacs initialization file (.emacs/init.el). 
+This presentation assumes the reader is an active user of Emacs, is comfortable with installation of Emacs packages and with editing the Emacs initialization file (.emacs/.emacs.el/init.el). 
 
-If the reader is not an Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended. The tutorial does not presume the user has any prior Emacs experience.
+If the reader is not an Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended instead. The tutorial does not presume the user has any prior Emacs experience.
 
-This presentations does not presume any prior experience with Clojure. Prior Java development experience is recommended but not required.
+This presentation does not presume any prior experience with Clojure. Prior Java development experience is recommended but not required.
 
 # Disclaimers
 
 I am fairly new to Clojure development and the CIDER Emacs package. Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
 
-CIDER 0.14 is (was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs/Java/Clojure versions), functionality and/or UI when using a version of CIDER other than 0.14.
+CIDER 0.14 is (or was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs/Java/Clojure versions), functionality and UI when using a version of CIDER other than 0.14.
 
 # Contributions / Questions / Suggestions
 
