@@ -18,6 +18,10 @@ I am fairly new to Clojure development and the CIDER Emacs package. Creating thi
 
 CIDER 0.14 is (or was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs/Java/Clojure versions), functionality and UI when using a version of CIDER other than 0.14.
 
+# Acknowledgements
+
+TBD
+
 # Contributions / Questions / Suggestions
 
 The GitBook markdown source, sample Clojure code and Emacs configuration files are available in the GitHub [project](https://github.com/tbellisiv/clojure-emacs-cider-intro). PR's for corrections/enhancements are welcome.
