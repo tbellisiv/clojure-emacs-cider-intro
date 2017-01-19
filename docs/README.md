@@ -4,11 +4,13 @@
 
 The goal of this presentation is to provide an introduction to CIDER for members of the Austin, TX "EmacsATX" meetup group - https://www.meetup.com/EmacsATX/.
 
-# [Audience](#audience)
+# Audience
 
-This presentation assumes the reader is an active user of GNU Emacs and is comfortable with installation of Emacs packages and editing the Emacs initialization file (init.el).
+This presentation assumes the reader is an active user of GNU Emacs, is comfortable with installation of Emacs packages and with editing the Emacs initialization file (.emacs/init.el). 
 
-No prior experience with Clojure is assumed. Some Java development experience is recommended but not required.
+If the reader is not an Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended. The tutorial does not presume the user has any prior Emacs experience.
+
+This presentations does not presume any prior experience with Clojure. Prior Java development experience is recommended but not required.
 
 # Disclaimers
 
