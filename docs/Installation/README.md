@@ -61,6 +61,17 @@ The standard installation method for Leiningen varies depending on the OS:
 
  2. Ensure that the directory containing the ```lein.bat``` script is on your PATH
 
+Alternative installation methods:
+
+ * Mac OS X:
+  * Homebrew: ```brew install leiningen```
+  * [SDKMAN](http://sdkman.io/): ```sdk install leiningen```
+ * Linux:
+  * [SDKMAN](http://sdkman.io/): ```sdk install leiningen```
+ * Windows:
+  * [Windows Installer](https://bitbucket.org/djpowell/leiningen-win-installer/downloads/leiningen-installer-1.0.exe) 
+  * Chocolatey: ```choco install lein```
+
 ## CIDER
 
 
