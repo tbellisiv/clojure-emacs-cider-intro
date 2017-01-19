@@ -51,11 +51,11 @@ The standard installation method for Leiningen varies depending on the OS:
  1. Download the lein [script](https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein)
    * ```curl -O https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein```
  2. Make the script executable:
-   * ```chmod a+x ~/bin/lein```
+   * ```chmod a+x lein```
  3. Ensure that the directory containing the ```lein``` script is on your PATH
  
 
-* Windows :
+* Windows:
 
  1. Download the lein.bat [script](https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat)
 
@@ -71,6 +71,12 @@ Alternative installation methods:
  * Windows:
   * [Windows Installer](https://bitbucket.org/djpowell/leiningen-win-installer/downloads/leiningen-installer-1.0.exe) 
   * Chocolatey: ```choco install lein```
+
+Now validate your Leiningen install:
+
+* Run ```lein version``` to display the Leiningen version.
+* Run ```lein repl``` to launch a Clojure REPL. Type ```(exit)``` to exit the REPL.
+
 
 ## CIDER
 
