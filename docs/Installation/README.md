@@ -22,7 +22,9 @@ If you do not have the minimal version of Java required for CIDER installed ([Pr
 
  * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html) 
  * Oracle Java:
-   * Generic:  [64-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFCDAIB) | [32-bit]()
+   * Generic: 
+     * Instructions: [64-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFJJEFG) | [32-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFCDAIB)
+     * [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
    * Debian 8: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-debian-8)
    * Unbuntu 16.04: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
    * RHEL/CentOS/Fedora: [Instructions](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
