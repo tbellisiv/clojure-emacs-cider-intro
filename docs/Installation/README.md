@@ -81,6 +81,8 @@ Finally, validate your Leiningen install:
 
 ## CIDER
 
-CIDER is installed via Emacs's package management
+CIDER is installed via Emacs' builtin-in package management facility, package.el (also known as ELPA- Emacs Lisp Package Archive).
+
+
 
 
