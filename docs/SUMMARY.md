@@ -4,6 +4,7 @@
 * [Overview](Overview/README.md)
 * [Prerequisites](Prerequisites/README.md)
 * [Installation](Installation/README.md)
+* [Architecture](Arch/README.md)
 * [Sample Clojure Project](Sample_Project/README.md)
 * [Cider Basics](Basics/README.md)
   * [clojure-mode](Basics/Clojure_Mode/README.md)
