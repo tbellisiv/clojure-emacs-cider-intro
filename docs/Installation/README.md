@@ -6,6 +6,23 @@ As noted in the [Introduction](../../README.md), this presentation assumes the r
 
 ## Java 
 
+Clojure is a JVM-based language and therefore requires an installation of Java. 
+
+If you do not have the minimal version of Java required for CIDER installed ([Prerequisites](../../Prerequisites/README.md)), install the version appropriate for your OS:
+
+* OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
+ | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+ 
+* Windows (Oracle Java):  [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html)
+ | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+* Linux (OpenJDK): 
+ 
+Ensure that:
+
+ * JAVA_HOME points to the root of the Java install directory
+ * The Java 'bin' directory is on your PATH
+
 ## Leiningen
 
 ## CIDER
