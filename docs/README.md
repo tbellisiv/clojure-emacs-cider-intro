@@ -4,7 +4,7 @@
 
 The goal of this presentation is to provide an introduction to CIDER for members of the Austin, TX "EmacsATX" meetup group - https://www.meetup.com/EmacsATX/.
 
-# Audience
+# [Audience](#audience)
 
 This presentation assumes the reader is an active user of GNU Emacs and is comfortable with installation of Emacs packages and editing the Emacs initialization file (init.el).
 
