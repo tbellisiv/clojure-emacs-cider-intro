@@ -81,8 +81,21 @@ Finally, validate your Leiningen install:
 
 ## CIDER
 
-CIDER is installed via Emacs' builtin-in package management facility, package.el (also known as ELPA- Emacs Lisp Package Archive).
+CIDER is installed via Emacs' builtin-in package management facility, package.el (also known as ELPA- Emacs Lisp Package Archive). CIDER is available in the MELPA package repository. 
 
+Ensure that you have the following in your Emacs init file (.emacs/.emacs.el/init.el):
 
+>(require 'package)
+
+>(add-to-list 'package-archives
+             '("melpa-stable" . "http://stable.melpa.org/packages/") t)
+
+>(package-initialize)
+
+Now install the CIDER package:
+
+```
+M-x package-install [RET] cider [RET]
+```
 
 
