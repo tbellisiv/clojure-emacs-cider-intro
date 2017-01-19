@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Overview](Overview/README.md)
 * [Prerequisites](Prerequisites/README.md)
-* [Cider Setup](Installation/README.md)
+* [Installation](Installation/README.md)
 * [Sample Clojure Project](Sample_Project/README.md)
 * [Cider Basics](Basics/README.md)
   * [clojure-mode](Basics/Clojure_Mode/README.md)
