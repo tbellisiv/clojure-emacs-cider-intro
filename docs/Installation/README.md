@@ -20,7 +20,8 @@ If you do not have the minimal version of Java required for CIDER installed ([Pr
 
 * Linux:
 
- Linux users have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support/stability, Oracle Java is recommended. For this presentation, OpenJDK is recommended.
+ Users of the popular Linux distributions and their derivatives have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support and stability, Oracle Java is 
+recommended. For this presentation, OpenJDK is recommended.
 
  * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html) 
  * Oracle Java:
