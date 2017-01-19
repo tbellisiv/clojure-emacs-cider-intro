@@ -4,7 +4,9 @@
 
 #### Emacs
 
-As noted in the [Introduction](../../README.md), this presentation assumes the reader is an active Emacs user and therefore has Emacs installed. You will want to ensure that your version of Emacs meets the minimal version of Cider (see [Prerequisites](../../Prerequisites/README.md)). This presentation uses Emacs 25.1. 
+As noted in the [Introduction](../../README.md), this presentation assumes the reader is an active Emacs user and therefore has Emacs installed. If the reader has not used Emacs, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended.
+
+You will want to ensure that your version of Emacs meets the minimal version of Cider (see [Prerequisites](../../Prerequisites/README.md)). This presentation uses Emacs 25.1. 
 
 #### Java 
 
