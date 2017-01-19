@@ -1,10 +1,12 @@
 # Installation
 
-## Emacs
+## Prerequsites
+
+#### Emacs
 
 As noted in the [Introduction](../../README.md), this presentation assumes the reader is an active Emacs user and therefore has Emacs installed. You will want to ensure that your version of Emacs meets the minimal version of Cider (see [Prerequisites](../../Prerequisites/README.md)). This presentation uses Emacs 25.1. 
 
-## Java 
+#### Java 
 
 Clojure is a JVM-based language and therefore requires an installation of Java. 
 
@@ -22,7 +24,7 @@ If you do not have the minimal version of Java required for CIDER installed ([Pr
 
  * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html) 
  * Oracle Java:
-   * Generic: 
+   * Linux (Generic): 
      * Instructions: [64-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFJJEFG) | [32-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFCDAIB)
      * [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
    * Debian 8: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-debian-8)
@@ -35,7 +37,7 @@ After you have installed Java, ensure that:
  * The Java 'bin' directory is on your PATH
  * The command 'java -version' returns the correct version of Java
 
-## Leiningen
+#### Leiningen
 
 ## CIDER
 
