@@ -85,17 +85,24 @@ CIDER is installed via Emacs' builtin-in package management facility, package.el
 
 Ensure that you have the following in your Emacs init file (.emacs/.emacs.el/init.el):
 
->(require 'package)
+```
+(require 'package)
 
->(add-to-list 'package-archives
+(add-to-list 'package-archives
              '("melpa-stable" . "http://stable.melpa.org/packages/") t)
 
->(package-initialize)
+(package-initialize)
+```
 
-Now install the CIDER package:
+Now install the CIDER package and it's dependencies:
 
 ```
 M-x package-install [RET] cider [RET]
 ```
 
+Verify CIDER is installed by executing the following:
+
+```
+M-x cider-version [RET]
+```
 
