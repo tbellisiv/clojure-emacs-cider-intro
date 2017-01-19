@@ -18,7 +18,7 @@ If you do not have the minimal version of Java required for CIDER installed ([Pr
 
 * Linux:
 
-Linux users have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support/stability, Oracle Java is recommended. For this presentation, OpenJDK is recommended.
+ Linux users have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support/stability, Oracle Java is recommended. For this presentation, OpenJDK is recommended.
 
  * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html) 
  * Oracle Java:
@@ -27,10 +27,11 @@ Linux users have the choice of either OpenJDK or Oracle Java. In terms of the li
    * Unbuntu 16.04: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
    * RHEL/CentOS/Fedora: [Instructions](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
 
-Ensure that:
+After you have installed Java, ensure that:
 
  * JAVA_HOME points to the root of the Java install directory
  * The Java 'bin' directory is on your PATH
+ * The command 'java -version' returns the correct version of Java
 
 ## Leiningen
 
