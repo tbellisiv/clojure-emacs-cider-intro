@@ -2,7 +2,7 @@
 
 ### Leiningen
 
-CIDER launches a Clojure REPL using your Clojure project's build tool (Leiningen for this tutorial). CIDER provides "middleware" (in the form of a Clojure library) to enhance the Clojure REPL with additional functionality. 
+CIDER launches a Clojure REPL using your Clojure project's build tool (Leiningen for this tutorial). CIDER provides "middleware" (in the form of a Clojure library) to enhance the standard Clojure REPL with additional functionality. 
 
 The recommended method for configuring CIDER's middleware in Leiningen is in the global ```profiles.clj``` file. The global ```profiles.clj``` specifies Leiningen configuration settings that are available across all your Clojure Leiningen projects. 
 
