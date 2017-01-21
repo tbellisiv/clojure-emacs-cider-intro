@@ -12,7 +12,7 @@ This presentation assumes the reader is an active user of Emacs, is comfortable 
 
 ### Git Experience
 
-The presentation also assumes the reader is comfortable using the [Git](https://git-scm.com/) version control system and is comfortable with cloning Git repositories. The sample Clojure code and exercises and maintained in a GitHub repository and will require the reader to clone the repository
+The presentation also assumes the reader has [Git](https://git-scm.com/) installed and is comfortable with cloning Git repositories. The sample Clojure code for this presentation is maintained in a [GitHub](https://github.com/tbellisiv/clojure-emacs-cider-intro) repository and will require the reader to clone the repository in order to work through the exercises.
 
 ### Development Experience
 
