@@ -18,7 +18,7 @@ The presentation also assumes the reader has [Git](https://git-scm.com/) install
 
 This presentation *does not* presume any prior experience with Clojure. Prior Java development experience is recommended *but not required*.
 
-# Disclaimers
+# Disclaimer
 
 I am fairly new to Clojure development and the CIDER Emacs package. Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
 
