@@ -8,7 +8,7 @@ The recommended method for configuring CIDER's middleware in Leiningen is in the
 
 On Linux and Mac OS X ```profiles.clj``` resides in the ```~/.lein``` directory. On Windows the directory is typically ```%USERPROFILE%\.lein``` (i.e. ```C:\Users\<username>\.lein```).
 
-```profiles.clj``` does not exist by default so you will need to create the file if it does not exist.
+**Note:** ```profiles.clj``` does not exist by default so you will need to create the file if it does not exist.
     
 Add the following to the global ```profiles.clj``` to inject CIDER's middleware:
     
