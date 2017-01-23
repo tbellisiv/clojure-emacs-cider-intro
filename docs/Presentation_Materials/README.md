@@ -1,4 +1,5 @@
-# Sample Clojure Projects
+# Presentation Materials
 
-A Clojure project was created to provide demonstration of CIDER for 
-The remaining sections references code from 
+### Clojure Code
+
+### Emacs Configurations
