@@ -8,7 +8,7 @@ The goal of this presentation is to provide a demonstration of the capabilities 
 
 ### Emacs Experience
 
-This presentation assumes the reader is an active user of Emacs, is comfortable with installation of Emacs packages and with editing the Emacs initialization file (.emacs/.emacs.el/init.el). If the reader is not an Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended instead. The tutorial does not presume the user has any prior Emacs experience.
+This presentation assumes the reader is an active user of Emacs, is comfortable with installation of Emacs packages and with editing the Emacs initialization file (.emacs/.emacs.el/init.el). If the reader is not an Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended instead.
 
 ### Git Experience
 
