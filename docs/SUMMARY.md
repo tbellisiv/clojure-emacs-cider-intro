@@ -6,7 +6,7 @@
 * [Installation](Installation/README.md)
 * [Configuration](Configuration/README.md)
 * [Architecture](Architecture/README.md)
-* [Materials](Presentation_Materials/README.md)Sample Clojure Projects](Sample_Project/README.md)
+* [Presentation Materials](Presentation_Materials/README.md)
 * [Cider Basics](Basics/README.md)
   * [clojure-mode](Basics/Clojure_Mode/README.md)
   * [cider-mode](Basics/Cider_Mode/README.md)
