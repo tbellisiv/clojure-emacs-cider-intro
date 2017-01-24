@@ -1,2 +1,4 @@
 # "Tour de CIDER"
 
+## Setup
+
