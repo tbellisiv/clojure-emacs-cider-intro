@@ -1,0 +1,1 @@
+This directory contains the accompanying Elisp code fragments and Emacs init files referenced in the [GitBook](https://www.gitbook.com/book/tbellisiv/clojure-emacs-cider-intro) presentation.
