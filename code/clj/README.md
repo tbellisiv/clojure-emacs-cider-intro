@@ -1,0 +1,1 @@
+This directory contains the accompanying Clojure code/projects referenced in the [GitBook](https://www.gitbook.com/book/tbellisiv/clojure-emacs-cider-intro) presentation.
