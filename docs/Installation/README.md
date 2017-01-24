@@ -46,7 +46,7 @@ After you have installed Java, ensure that:
 
 #### Leiningen
 
-[Leiningen](https://leiningen.org/) is the de facto standard project build/automation tool for Clojure. Leiningen serves the same purpose as Maven, Gradle, and Rake for their respective languages.
+[Leiningen](https://leiningen.org/) is the de facto standard project build/automation tool for Clojure. Leiningen serves the same purpose as make, Maven, Gradle, and Rake do for their respective languages.
 
 For Leiningen-based Clojure projects, CIDER uses Leiningen to launch a Clojure REPL from Emacs. 
 
