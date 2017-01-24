@@ -11,7 +11,7 @@ The accompanying Clojure code/projects referenced in this presentation are locat
 
 ### Emacs Code
 
-The Elisp code fragments and initialization files referenced in this presentation are located in the ```code/elisp``` sub-directory of the GitHub project:
+The Elisp code fragments and Emacs initialization files referenced in this presentation are located in the ```code/elisp``` sub-directory of the GitHub project:
 
 [https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code/elisp](https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code/elisp)
 
