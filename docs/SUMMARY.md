@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Overview](Overview/README.md)
-* [Prerequisites](Prerequisites/README.md)
 * [Installation](Installation/README.md)
 * [Configuration](Configuration/README.md)
 * [Presentation Materials](Presentation_Materials/README.md)
