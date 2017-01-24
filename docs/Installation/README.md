@@ -47,7 +47,9 @@ After you have installed Java, ensure that:
 
 #### Leiningen
 
-[Leiningen](https://leiningen.org/) is the standard Clojure project build/automation tool. For Leiningen-based Clojure projects, CIDER uses Leiningen to launch a Clojure REPL from Emacs. CIDER also supports [Boot](https://github.com/boot-clj/boot) and [Gradle](https://gradle.org/) but this tutorial will cover Leiningen.
+[Leiningen](https://leiningen.org/) is the de facto standard project build/automation tool for Clojure. For Leiningen-based Clojure projects, CIDER uses Leiningen to launch a Clojure REPL from Emacs. 
+
+CIDER also supports Clojure projects that use [Boot](https://github.com/boot-clj/boot) and [Gradle](https://gradle.org/) but this tutorial will cover Leiningen.
 
 The standard installation method for Leiningen varies depending on the OS:
 
