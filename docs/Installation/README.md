@@ -42,7 +42,7 @@ After you have installed Java, ensure that:
 
 * JAVA_HOME points to the root of the Java install directory.
 * The Java 'bin' directory is on your PATH.
-* The command ```java -version``` returns the correct version of Java.
+* The command ```java -version``` returns version 1.7 or higher.
 
 #### Leiningen
 
