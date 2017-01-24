@@ -17,7 +17,7 @@ As noted in the [Introduction](../../README.md), this presentation assumes the r
 
 Clojure is a JVM-based language and therefore requires an installation of Java.
 
-If you do not Java 1.7 or later installed, install the version of Java appropriate for your OS:
+If you do not have Java 1.7 or later installed, install the version of Java appropriate for your OS:
 
 * OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html) 
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
