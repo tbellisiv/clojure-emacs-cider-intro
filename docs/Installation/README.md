@@ -11,7 +11,7 @@ CIDER 0.14.0 (the version current at the writing of this presentation) has the f
 
 #### Emacs
 
-As noted in the [Introduction](../../README.md), this presentation assumes the reader is an active Emacs user and therefore has Emacs installed. If the reader has not used Emacs, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended.
+As noted in the [Introduction](../../README.md), this presentation assumes the reader is an active Emacs user and therefore has Emacs installed. If the reader is not an active (or experienced) Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended.
 
 #### Java
 
