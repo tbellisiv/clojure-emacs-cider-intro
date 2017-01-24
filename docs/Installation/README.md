@@ -2,36 +2,42 @@
 
 ## Prerequsites
 
+CIDER 0.14 (the version current at the writing of this presentation) has the following prerequisites:
+
+* [Emacs](https://www.gnu.org/software/emacs/) 24.4 or later
+* Java: [Oracle Java](http://www.oracle.com/technetwork/indexes/downloads/index.html#java) or [Open JDK](http://openjdk.java.net/install/index.html) 1.7 or later
+* [Clojure/ClojureScript](https://clojure.org/) 1.7 or later
+* Clojure Project Build Tool: [Leiningen](https://leiningen.org/), [Boot](https://github.com/boot-clj/boot) or [Gradle](https://gradle.org/). This presentation will use Leiningen- the defacto Clojure project build tool.
+
 #### Emacs
 
 As noted in the [Introduction](../../README.md), this presentation assumes the reader is an active Emacs user and therefore has Emacs installed. If the reader has not used Emacs, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended.
-
-You will want to ensure that your version of Emacs meets the minimal version of Cider (see [Prerequisites](../../Prerequisites/README.md)). This presentation uses Emacs 25.1.
 
 #### Java
 
 Clojure is a JVM-based language and therefore requires an installation of Java.
 
-If you do not have the minimal version of Java required for CIDER installed ([Prerequisites](../../Prerequisites/README.md)), install the version appropriate for your OS:
+If you do not Java 1.7 or later installed, install the version of Java appropriate for your OS:
 
 * OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 * Windows (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html)
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 * Linux:
 
-Users of the popular Linux distributions and their derivatives have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support and stability, Oracle Java is
+    Users of the popular Linux distributions and their derivatives have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support and stability, Oracle Java is
 recommended. For this presentation, OpenJDK is recommended.
 
-* OpenJDK: [Instructions](http://openjdk.java.net/install/index.html)
-* Oracle Java:
-    * Linux (Generic):
-        * Instructions: [64-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFJJEFG) | [32-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFCDAIB)
-        * [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-    * Debian 8: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-debian-8)
-    * Unbuntu 16.04: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
-    * RHEL/CentOS/Fedora: [Instructions](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
+    * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html)
+    * Oracle Java:
+        * Linux (Generic):
+            * Instructions: [64-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFJJEFG) | [32-bit](https://docs.oracle.com/javase/8/docs/technotes/guides/install/linux_jdk.html#BJFCDAIB)
+            * [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+        * Debian 8: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-debian-8)
+        * Unbuntu 16.04: [Instructions](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
+        * RHEL/CentOS/Fedora: [Instructions](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
 
 After you have installed Java, ensure that:
 
