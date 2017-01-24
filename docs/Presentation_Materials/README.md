@@ -4,15 +4,14 @@ All of the accompanying materials (code, Emacs configuration files) are located 
 
 ### Clojure Code
 
-The accompanying Clojure code/projects referenced in this presentation are located in the ```code``` sub-directory of the GitHub project:
+The accompanying Clojure code/projects referenced in this presentation are located in the ```code/clj``` sub-directory of the GitHub project:
 
-[https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code](https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code)
-
+[https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code/clj](https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code/clj)
 
 
 ### Emacs Code
 
-The Elisp code fragments and initialization files referenced in this presentation are located in the ```emacs_config``` sub-directory of the GitHub project:
+The Elisp code fragments and initialization files referenced in this presentation are located in the ```code/elisp``` sub-directory of the GitHub project:
 
-[https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/emacs_config](https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/emacs_config)
+[https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code/elisp](https://github.com/tbellisiv/clojure-emacs-cider-intro/tree/master/code/elisp)
 
