@@ -19,16 +19,15 @@ Clojure is a JVM-based language and therefore requires an installation of Java.
 
 If you do not Java 1.7 or later installed, install the version of Java appropriate for your OS:
 
-* OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
+* OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html) 
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-* Windows (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html)
+* Windows (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html) 
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 * Linux:
 
-    Users of the popular Linux distributions and their derivatives have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support and stability, Oracle Java is
-recommended. For this presentation, OpenJDK is recommended.
+    Users of the popular Linux distributions and their derivatives have the choice of either OpenJDK or Oracle Java. In terms of the licensing model and ease of installation (installation via your Linux package manager), OpenJDK is recommended. In terms of support and stability, Oracle Java is recommended.
 
     * OpenJDK: [Instructions](http://openjdk.java.net/install/index.html)
     * Oracle Java:
