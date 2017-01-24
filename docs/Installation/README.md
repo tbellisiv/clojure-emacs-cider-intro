@@ -76,7 +76,7 @@ Alternative installation methods:
     * [SDKMAN](http://sdkman.io/): ```sdk install leiningen```
 * Windows:
     * [Windows Installer](https://bitbucket.org/djpowell/leiningen-win-installer/downloads/leiningen-installer-1.0.exe)
-    * Chocolatey: ```choco install lein```
+    * [Chocolatey](https://chocolatey.org/): ```choco install lein```
 * Linux:
     * [SDKMAN](http://sdkman.io/): ```sdk install leiningen```
 * Other OS's - [https://github.com/technomancy/leiningen/wiki/Packaging](https://github.com/technomancy/leiningen/wiki/Packaging)
