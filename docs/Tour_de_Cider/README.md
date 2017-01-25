@@ -1,4 +1,4 @@
-# Tour de CIDER
+# A Quick Tour of Cider
 
 ## Setup
 
