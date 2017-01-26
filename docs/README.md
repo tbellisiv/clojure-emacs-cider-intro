@@ -8,7 +8,13 @@ The goal of this presentation is to provide a demonstration of the capabilities 
 
 ### Emacs Experience
 
-This presentation assumes the reader is an active user of Emacs, is comfortable with installation of Emacs packages and with editing the Emacs initialization file (.emacs/.emacs.el/init.el). If the reader is not an Emacs user, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the [Brave Clojure](http://www.braveclojure.com/) site is recommended instead.
+This presentation assumes that the reader:
+
+ * Is an active- or at least experienced- user of Emacs.
+ * Can install Emacs packages using the [Emacs Lisp Package Archive](https://elpa.gnu.org/) (i.e. package.el, ELPA) functionality in Emacs 24.1 and higher.
+ * Is comfortable editing the Emacs initialization file (.emacs/.emacs.el/init.el) to add customizations (e.g. keybindings, setting/updating variables). 
+ 
+For users who have no Emacs experience, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the excellent [Brave Clojure](http://www.braveclojure.com/) site is recommended instead.
 
 ### Git Experience
 
@@ -20,9 +26,15 @@ This presentation *does not* presume any prior experience with Clojure. Prior Ja
 
 # Disclaimer
 
-I am fairly new to Clojure development and the CIDER Emacs package. Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
+### My Background
 
-CIDER 0.14.0 is (or was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs, Java nd Clojure versions), functionality and UI when using a version of CIDER other than 0.14.0.
+I am fairly new to Clojure development and the CIDER Emacs package. I would consider myself an "intermediate beginner" at Emacs, having used Emacs from mid-90's to the early 00's. I have returned to Emacs after a 13-year hiatus due largely to my interest in Clojure and other FP languages.
+
+Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
+
+### CIDER Version
+
+CIDER 0.14.0 is (or was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs, Java sd Clojure versions), functionality and UI in subsequent CIDER versions.
 
 # Acknowledgements
 
