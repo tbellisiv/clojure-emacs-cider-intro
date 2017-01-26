@@ -20,7 +20,7 @@ All of the versions of the Emacs config files used in this presentation are loca
 
 ## The Tour
 
-### [Starting Cider](./Starting.md)
+### [Starting Cider](docs/Tour_de_Cider/Starting.md)
 
 
 
