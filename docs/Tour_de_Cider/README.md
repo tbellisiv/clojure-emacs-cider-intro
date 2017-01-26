@@ -10,7 +10,10 @@ Before we get stared, make sure you have:
 
 * Cloned the [GitHub](https://github.com/tbellisiv/clojure-emacs-cider-intro) repository (see [Presentation Materials](../../Presentation_Materials/README.md))
 
-## Open the 
+## The Tour
+
+### [Starting Cider](Tour_de_Cider/Cider_Mode/Starting.md)
+
 
 
 
