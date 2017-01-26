@@ -1,6 +1,6 @@
-(ns sample-clj-proj.core-test
+(ns cider-tour.core-test
   (:require [clojure.test :refer :all]
-            [sample-clj-proj.core :refer :all]))
+            [cider-tour.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
