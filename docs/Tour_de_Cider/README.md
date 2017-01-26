@@ -14,13 +14,13 @@ Before we get stared, make sure you have:
 
 ### Emacs Configuration
 
-A minimal base Emacs init file (see [init.el](../../../code/elisp/init_file/00_base/init.el)) was used for the exercises and screenshots in this chapter. In subsequent chapters we will progressively update the Emacs init file to enhance the CIDER development experience and provide a link to the updated Emacs config file.
+A minimal base Emacs init file ([init.el](../../../code/elisp/init_file/00_base/init.el)) was used for the exercises and screenshots in this chapter. In subsequent chapters we will progressively update the Emacs init file to enhance the CIDER development experience.
 
 All of the versions of the Emacs config files used in this presentation are located within the GitHub project in the ```code/elisp/init_file``` directory.
 
 ## The Tour
 
-### [Starting Cider](Tour_de_Cider/Cider_Mode/Starting.md)
+### [Starting Cider](./Starting.md)
 
 
 
