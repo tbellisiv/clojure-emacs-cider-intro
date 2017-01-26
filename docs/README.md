@@ -32,13 +32,13 @@ I am fairly new to Clojure development and the CIDER Emacs package. I would cons
 
 Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
 
-### CIDER Version
+### CIDER Version Differences
 
 CIDER 0.14.0 is (or was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs, Java sd Clojure versions), functionality and UI in subsequent CIDER versions.
 
-### Emacs Version
+### Emacs Version Differences
 
-GNU Emacs 25.1 on Linux (Fedora 24) was used to create the screenshots for this presentation. Any version of Emacs that meets the CIDER requirements will suffice however the screenshots from your actual experience due to the platform (Mac, Linux, Windows), version, distribution (e.g. GNU Emacs, Spacemacs, Emacs Live, etc.) and customizations of your Emacs install.
+GNU Emacs 25.1 on Linux (Fedora 24) was used to create the screenshots for this presentation. Any version of Emacs that meets the CIDER requirements will suffice however the screenshots may vary from your actual experience due to the platform (Mac, Linux, etc.), version (24.x vs 25.x), distribution (e.g. GNU Emacs, Spacemacs, Emacs Live, etc.) and customizations of your Emacs install.
 
 
 
