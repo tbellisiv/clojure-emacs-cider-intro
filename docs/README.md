@@ -28,13 +28,19 @@ This presentation *does not* presume any prior experience with Clojure. Prior Ja
 
 ### My Background
 
-I am fairly new to Clojure development and the CIDER Emacs package. I would consider myself an "intermediate beginner" at Emacs, having used Emacs from mid-90's to the early 00's. I have returned to Emacs after a 13-year hiatus due largely to my interest in Clojure and other FP languages.
+I am fairly new to Clojure development and the CIDER Emacs package. I would consider myself an "intermediate beginner" at Emacs, having used Emacs from the mid-90's to the early 00's and returned to Emacs after a 13-year hiatus (due to my interest in Clojure and other FP languages).
 
 Creating this presentation is as much a learning exercise for me much as I hope it is for the reader.
 
 ### CIDER Version
 
 CIDER 0.14.0 is (or was) the version of the most recent stable release when this presentation was created. The reader will likely encounter differences in requirements (e.g. Emacs, Java sd Clojure versions), functionality and UI in subsequent CIDER versions.
+
+### Emacs Version
+
+GNU Emacs 25.1 on Linux (Fedora 24) was used to create the screenshots for this presentation. Any version of Emacs that meets the CIDER requirements will suffice however the screenshots from your actual experience due to the platform (Mac, Linux, Windows), version, distribution (e.g. GNU Emacs, Spacemacs, Emacs Live, etc.) and customizations of your Emacs install.
+
+
 
 # Acknowledgements
 
