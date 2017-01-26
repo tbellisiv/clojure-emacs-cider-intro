@@ -6,3 +6,4 @@ In Emacs open the ```project.clj``` file. This is the Leiningen project file tha
 
 ![project.clj for cider-tour project](images/project_clj.jpg)
 
+The cider-tour project has dependency on Clojure 1.8.0. Like Maven and other build automation tools, Leiningen auto-downloads project dependencies.
