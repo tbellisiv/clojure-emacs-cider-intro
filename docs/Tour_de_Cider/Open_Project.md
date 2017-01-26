@@ -11,11 +11,14 @@ In Emacs open the ```project.clj``` file for the cider-tour project. This is the
 
 The cider-tour project has a dependency on Clojure 1.8.0. Like Maven and similar build automation tools, Leiningen auto-downloads project dependencies on first-use.
 
+### Project Directory Structure
+
 ### Clojure File Extensions
 
-Note that the mode line displays ```(Clojure)``` indicating that ```clojure-mode``` major mode is enabled. CIDER appends entries to the Emacs ```auto-mode-alist``` to enable clojure-mode for supported Clojure file types. The major Clojure file extensions are:
+Note that the mode line for the project.clj buffer displays ```(Clojure)``` indicating that the ```clojure-mode``` major mode is enabled. CIDER appends entries to the Emacs ```auto-mode-alist``` variable to enable ```clojure-mode``` for supported Clojure file types. The major Clojure file extensions are:
 
 | Extension | Content |
 | --------- | ------- |
-| .clj      | Clojure |
-| .cljs     | ClojureScript |
+| .clj      | Clojure Code |
+| .cljs     | ClojureScript Code |
+| .edn      | [EDN](https://github.com/edn-format/edn) Data |
