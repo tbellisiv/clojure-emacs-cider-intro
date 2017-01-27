@@ -10,7 +10,12 @@ All of the accompanying materials (code, Emacs configuration files) are located 
 The Clojure code and projects referenced in this presentation are located in the ```code/clj``` sub-directory of the GitHub project.
 
 
-### Emacs Code
+### Emacs Initialization Files
 
-The Elisp code fragments and Emacs initialization files referenced in this presentation are located in the ```code/elisp``` sub-directory of the GitHub project.
+Throughout this presentation, starting with a base minimal Emacs file ([init.el](../../../code/elisp/init_file/00_base/init.el)), we will progressively update the init file to enhance the CIDER development experience.
+
+Successive versions of the Emacs init file are located in the ```code/elisp/init_file``` sub-directory of the GitHub project. Each is stored in a sub-directory that has a numeric prefix indicating the version ('00' being the initial version) and a short description. The sub-directory containing the base version used in this chapter is ```00_base```.
+
+
+
 
