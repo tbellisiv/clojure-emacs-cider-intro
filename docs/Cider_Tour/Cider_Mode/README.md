@@ -12,3 +12,5 @@ The [`clojure-mode`](https://github.com/clojure-emacs/clojure-mode) major mode p
 > * Terminating a CIDER REPL session is commonly referred to as "stopping CIDER" (or "quitting CIDER").
 
 ### [Starting CIDER](Starting.md)
+
+### [REPL - Code Eval](REPL_Code_Eval.md)
