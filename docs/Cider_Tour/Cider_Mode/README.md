@@ -9,3 +9,4 @@ The [`clojure-mode`](https://github.com/clojure-emacs/clojure-mode) major mode p
 > * Starting a CIDER REPL session is commonly referred to as "starting" CIDER".
 > * Terminating a CIDER REPL session is commonly referred to as "stopping" (or "quitting") CIDER.
 
+### [Starting CIDER](Starting.md)
