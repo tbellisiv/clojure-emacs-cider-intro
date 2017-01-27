@@ -8,7 +8,7 @@
 * [A Quick Tour of Cider](Cider_Tour/README.md)
   * [Getting Ready](Cider_Tour/Getting_Ready.md)
   * [The Clojure "Tour" Project](Cider_Tour/Tour_Project.md)
-  * [clojure-mode](Cider_Tour/Clojure_Mode/README.md)
+  * [clojure-mode](Cider_Tour/Clojure_Mode.md)
   * [cider-mode](Cider_Tour/Cider_Mode/README.md)
     * [Starting Cider](Cider_Tour/Cider_Mode/Starting.md)
     * [Quitting Cider](Cider_Tour/Cider_Mode/Quitting.md)
