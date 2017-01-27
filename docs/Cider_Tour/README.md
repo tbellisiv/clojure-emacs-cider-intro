@@ -1,7 +1,7 @@
 # A Quick Tour of Cider
 
-### [Getting Ready](Cider_Tour/Getting_Ready.md)
-### [The Clojure "Tour" Project](Cider_Tour/Tour_Project.md)
+### [Getting Ready](Getting_Ready.md)
+### [The Clojure "Tour" Project](Tour_Project.md)
 
 
 
