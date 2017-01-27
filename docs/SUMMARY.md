@@ -7,7 +7,7 @@
 * [Presentation Materials](Presentation_Materials/README.md)
 * [A Quick Tour of Cider](Cider_Tour/README.md)
   * [Getting Ready](Cider_Tour/Getting_Ready.md)
-  * [Open the Sample Project](Cider_Tour/Tour_Project.md)
+  * [The Clojure "Tour" Project](Cider_Tour/Tour_Project.md)
   * [clojure-mode](Cider_Tour/Clojure_Mode/README.md)
   * [cider-mode](Cider_Tour/Cider_Mode/README.md)
     * [Starting Cider](Cider_Tour/Cider_Mode/Starting.md)
