@@ -12,5 +12,5 @@ Enter`(* 1.4 67)`
 #### Print "Hello, world!"
 Enter `(println "Hello, world!")`
 
-![REPL Screenshot - Hello, world!](images/repl_hello_word.jpg)
+![REPL Screenshot - Hello, world!](images/repl_hello_world.jpg)
 
