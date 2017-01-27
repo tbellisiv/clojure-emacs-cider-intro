@@ -2,7 +2,7 @@
 
 ### [Getting Ready](Getting_Ready.md)
 ### [The Clojure "Tour" Project](Tour_Project.md)
-### [Emacs "clojure-mode"](Clojure_Mode.md)
+### [Clojure Mode](Clojure_Mode.md)
 
 
 
