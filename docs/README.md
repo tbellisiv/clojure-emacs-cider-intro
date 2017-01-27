@@ -29,7 +29,7 @@ other Lisp-derived languages (e.g. [Emacs Lisp](https://www.emacswiki.org/emacs/
 
 * Java development experience/familiarity is helpful *but not required*.
 
-# Disclaimer
+# Disclaimers
 
 ### My Background
 
