@@ -22,12 +22,12 @@ For users who have no Emacs experience, the tutorial [How to Use Emacs, an Excel
 
 ### Development Experience
 
-* The presentation assumes the user has some development experience in a mainstream programming language such as C/C++, Java, Python or Javascript and is familiar with the concepts of functions, variables and data types. 
+* The presentation assumes the user has some development experience in a mainstream programming language such as C/C++, C#, Java, Python, PHP, Ruby or JavaScript and is familiar with the concepts of functions, variables and data types. 
 
 * The presentation *does not assume* the user has knowledge of Clojure however experience/familiarity with 
-other Lisp-derived languages (e.g. [Emacs Lisp](https://www.emacswiki.org/emacs/EmacsLisp), [Common Lisp](https://www.common-lisp.net/) or [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) is helpful but not required.
+other Lisp-derived languages (e.g. [Emacs Lisp](https://www.emacswiki.org/emacs/EmacsLisp), [Common Lisp](https://www.common-lisp.net/) or [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) is helpful *but not required*.
 
-* Java development experience is recommended *but not required*.
+* Java development experience/familiarity is helpful *but not required*.
 
 # Disclaimer
 
