@@ -38,7 +38,7 @@ CIDER 0.14.0 is (or was) the version of the most recent stable release when this
 
 ### Emacs Version Differences
 
-GNU Emacs 25.1 on Linux (Fedora 24) was used to create the content (screenshots, exercises) for this presentation. Any version of Emacs that meets the CIDER requirements will suffice however the actual UI and default CIDER keybindings may vary due to the platform (Mac, Linux, etc.), distribution (e.g. GNU Emacs, Spacemacs, Emacs Live, etc.) and customizations of your Emacs install.
+GNU Emacs 25.1 on Linux (Fedora 24) was used to create the content (screenshots, exercises) for this presentation. Any version of Emacs that meets the CIDER requirements will suffice. However the Emacs UI and keybindings may vary due to the platform (Mac, Linux, etc.), distribution (e.g. GNU Emacs, Spacemacs, Emacs Live, etc.) and customizations of your Emacs install.
 
 
 
