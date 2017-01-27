@@ -5,7 +5,7 @@
 * [Installation](Installation/README.md)
 * [Configuration](Configuration/README.md)
 * [Presentation Materials](Presentation_Materials/README.md)
-* [Tour de Cider](Tour_de_Cider/README.md)
+* [Tour of Cider](Tour_de_Cider/README.md)
   * [Open the Sample Project](Tour_de_Cider/Open_Project.md)
   * [clojure-mode](Tour_de_Cider/Clojure_Mode/README.md)
   * [cider-mode](Tour_de_Cider/Cider_Mode/README.md)
