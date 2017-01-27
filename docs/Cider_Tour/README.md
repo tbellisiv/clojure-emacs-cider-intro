@@ -20,7 +20,7 @@ In subsequent chapters we will progressively update the Emacs init file to enhan
 
 ## The Tour
 
-### [Opening the Project](Open_Project.md)
+### [Our Clojure "Tour" Project](Tour_Project.md)
 
 
 
