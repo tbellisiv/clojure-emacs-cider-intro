@@ -4,7 +4,7 @@
 
 The goal of this presentation is to provide a demonstration of the capabilities of CIDER to members of the Austin, TX "EmacsATX" meetup group - https://www.meetup.com/EmacsATX/.
 
-# Audience
+# Intended Audience
 
 ### Emacs Experience
 
