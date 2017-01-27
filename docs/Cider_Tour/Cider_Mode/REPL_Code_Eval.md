@@ -9,4 +9,8 @@ Enter`(* 1.4 67)`
 
 ![REPL Screenshot - 1.4 * 67](images/repl_expr_mult.jpg)
 
- 
+#### Print "Hello, world!"
+Enter `(println "Hello, world!")`
+
+![REPL Screenshot - Hello, world!](images/repl_hello_word.jpg)
+
