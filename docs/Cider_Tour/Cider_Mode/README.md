@@ -13,4 +13,4 @@ The [`clojure-mode`](https://github.com/clojure-emacs/clojure-mode) major mode p
 
 ### [Starting CIDER](Starting.md)
 
-### [REPL - Code Eval](REPL_Code_Eval.md)
+### [Evaluating Code in the REPL](REPL_Code_Eval.md)
