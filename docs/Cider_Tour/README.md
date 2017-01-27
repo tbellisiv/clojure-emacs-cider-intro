@@ -12,7 +12,9 @@ Before we get stared, make sure you have:
 
 ### Emacs Configuration
 
-A minimal base Emacs init file ([init.el](https://github.com/tbellisiv/clojure-emacs-cider-intro/blob/master/code/elisp/init_file/00_base/init.el)) was used for the exercises and screenshots in this chapter. In subsequent chapters we will progressively update the Emacs init file to enhance the CIDER development experience. (see [Presentation Materials](../../Presentation_Materials/README.md) for details)
+A minimal Emacs init file ([init.el](https://github.com/tbellisiv/clojure-emacs-cider-intro/blob/master/code/elisp/init_file/00_base/init.el)) was used for the exercises and screenshots in this chapter. The init file contains the minimal configuration necessary to enable installation of Emacs packages (as discussed in [Installation](../../Installation/README.md)).
+
+In subsequent chapters we will progressively update the Emacs init file to enhance the CIDER development experience. (see [Presentation Materials](../../Presentation_Materials/README.md) for details)
 
 
 ## The Tour
