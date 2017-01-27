@@ -14,7 +14,7 @@ Enter `(println "Hello, world!")`
 
 ![REPL Screenshot - Hello, world!](images/repl_hello_world.jpg)
 
-#### Sort A Vector (i.e. Array) of Numbers
+#### Sort A Vector (Array) of Numbers
 Enter `(sort [4.2 10 1 4.5 1 15])`
 
 ![REPL Screenshot - Vector Sort](images/repl_expr_sort.jpg)
