@@ -16,7 +16,10 @@ In response, CIDER performs the following actions:
 
 * Invokes Leiningen to start a new REPL background process
 * Evaluates the `core.clj` file in the REPL.
+* Sets the current namespace to the namespace of the `core.clj` file (`cider-tour.core`)
 * Opens a buffer window for user interaction with the REPL.
+
+CIDER displays a banner message in the REPL buffer that provides helpful information for new users:
 
 ![CIDER REPL Buffer Window](images/cider_start_repl.jpg)
 
