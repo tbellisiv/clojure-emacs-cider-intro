@@ -1,4 +1,4 @@
-# A Quick Tour of Cider
+# A Sip of Cider
 
 ### [Getting Ready](Getting_Ready.md)
 ### [The Clojure "Tour" Project](Tour_Project.md)
