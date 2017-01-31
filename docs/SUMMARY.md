@@ -23,6 +23,7 @@
   * [Cider Debugger](Debugging/Debugger.md)
   * [Function Tracing](Debugging/Tracing.md)
   * [Stacktraces](Debugging/Stacktraces.md)
+* [Spiking Cider](Spiking_Cider/README.md)
 * [Useful Packages](Extra_Packages/README.md)
 * [Cool Features](Misc/README.md)
   * [Code Reloading](Misc/Code_Reloading.md)
