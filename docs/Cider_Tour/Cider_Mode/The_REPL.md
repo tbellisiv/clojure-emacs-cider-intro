@@ -64,7 +64,7 @@ Add elements to the vector:
 
 Return the third element of the vector:
 
-`(conj valid-states :starting :paused)`
+`(get valid-states 2)`
 
 **Output**
 ![REPL Screenshot - Using Vectors](images/repl_coll_vector.jpg)
