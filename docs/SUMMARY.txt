@@ -1,0 +1,40 @@
+
+
+SUMMARY
+
+
+- Introduction
+- Overview
+- Installation
+- Configuration
+- Presentation Materials
+- A Sip of Cider
+  - Getting Ready
+  - The Clojure "Tour" Project
+  - Clojure Mode
+  - Cider Mode
+    - Starting Cider
+    - The REPL
+    - Running the Cider "Tour" Project
+    - Code Evaluation
+    - Viewing Documentation
+    - Code Completion
+    - Test Execution
+    - Quitting Cider
+- Spiking CIDER
+  - Adding Auto-Completion
+  - Adding Eldoc
+  - Adding Paredit
+  - Adding Rainbow Parens
+- Architecture of CIDER
+- Debugging
+  - Cider Debugger
+  - Function Tracing
+  - Stacktraces
+- Useful Packages
+- Cool Features
+  - Code Reloading
+  - Enlighten Mode
+  - Classpath Browser
+- More Information
+
