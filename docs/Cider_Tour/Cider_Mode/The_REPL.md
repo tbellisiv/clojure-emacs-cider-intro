@@ -19,10 +19,17 @@ Enter `(sort [4.2 10 1 4.5 1 15])`
 
 ![REPL Screenshot - Vector Sort](images/repl_expr_sort.jpg)
 
-#### Sum Vector of Numbers
+#### Sum a Vector of Numbers
 Enter `(reduce + [4.2 10 1 4.5 1 15])`
 
 ![REPL Screenshot - Sum](images/repl_expr_reduce.jpg)
+
+### Increment a Vector of Numbers
+Enter `(map inc [4.2 10 1 4.5 1 15])`
+
+![REPL Screenshot - Sum](images/repl_expr_map.jpg)
+
+
 
 
 
