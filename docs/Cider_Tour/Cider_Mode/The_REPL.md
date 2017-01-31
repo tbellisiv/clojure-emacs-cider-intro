@@ -67,6 +67,9 @@ Return the third element of the vector:
 `(conj valid-states :starting :paused)`
 
 **Output**
+![REPL Screenshot - Using Vectors](images/repl_coll_vector.jpg)
+
+
 
 
 ### Maps
