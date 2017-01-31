@@ -50,12 +50,30 @@ Display the length of the string
 ![REPL Screenshot - Using Vars](images/repl_var_use.jpg)
 
 
+## Collections
+
+### Vectors
+
+Define a var with vector content:
+
+`(def valid-states [:stopped :stopping :running])`
+
+Add elements to the vector:
+
+`(conj valid-states :starting :paused)`
+
+Return the third element of the vector:
+
+`(conj valid-states :starting :paused)`
+
+**Output**
 
 
+### Maps
 
+### Sets
 
-
-#### Vectors
+### Lists
 
 
 
