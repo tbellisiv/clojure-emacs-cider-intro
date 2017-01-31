@@ -14,7 +14,7 @@ The main Clojure file extensions are:
 
 
 
-**project.clj**
+**Screenshot - project.clj**
  
 ![project.clj for cider-tour project](images/project_clj.jpg)
 
@@ -27,7 +27,7 @@ The main Clojure file extensions are:
 
 > **FYI**
 
-> * clojure-mode and CIDER are distributed as separate Emacs packages but are maintained by the same author. The clojure-mode package is a dependency of CIDER but may be used independent of CIDER (e.g. to use in conjuction with the [inf-clojure](https://github.com/clojure-emacs/inf-clojure) Clojure REPL package).
+> * clojure-mode and CIDER are distributed as separate Emacs packages but are maintained by the same author. The clojure-mode package is a dependency of CIDER but may be used independent of CIDER (e.g. to use in conjuction with the [inf-clojure](https://github.com/clojure-emacs/inf-clojure), an alternative Clojure REPL package).
 
 
 > * CIDER appends entries to the Emacs `auto-mode-alist` variable to enable `clojure-mode` for supported Clojure file types. 
