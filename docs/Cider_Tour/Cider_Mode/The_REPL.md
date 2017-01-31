@@ -83,7 +83,8 @@ Added a mapping for the _:starting_ state:
 
 `(assoc state-display-vals :starting "Starting")`
 
-
+**Output**
+![REPL Screenshot - Using Vectors](images/repl_coll_map.jpg)
 
 ### Sets
 
