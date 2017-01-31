@@ -5,7 +5,7 @@
 * [Installation](Installation/README.md)
 * [Configuration](Configuration/README.md)
 * [Presentation Materials](Presentation_Materials/README.md)
-* [A Sip of Cider](Cider_Tour/README.md)
+* [A Sip of CIDER](Cider_Tour/README.md)
   * [Getting Ready](Cider_Tour/Getting_Ready.md)
   * [The Clojure "Tour" Project](Cider_Tour/Tour_Project.md)
   * [Clojure Mode](Cider_Tour/Clojure_Mode.md)
