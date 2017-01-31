@@ -54,7 +54,7 @@ Display the length of the string
 
 ### Vectors
 
-Define a var with contains a [vector](https://clojure.org/reference/data_structures#Vectors) content:
+Define a var that contains a [vector](https://clojure.org/reference/data_structures#Vectors) of [keywords](https://clojure.org/reference/data_structures#Keywords) representing states:
 
 `(def valid-states [:stopped :stopping :running])`
 
@@ -71,7 +71,19 @@ Return the third element of the vector:
 
 ### Maps
 
-Define a var that contains a [map](https://clojure.org/reference/data_structures#Maps):
+Define a var that contains a [map](https://clojure.org/reference/data_structures#Maps) which maps states to strings suitable for display in a UI: 
+
+`(def state-display-vals {:stopped "Stopped" :stopping "Stopping" :running "Running"})`
+
+Get the display value for the _:stopped_ state:
+
+`(:stopped state-display-vals)`
+
+Added a mapping for the _:starting_ state:
+
+`(assoc state-display-vals :starting "Starting")`
+
+
 
 ### Sets
 
