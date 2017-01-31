@@ -54,7 +54,7 @@ Display the length of the string
 
 ### Vectors
 
-Define a var with vector content:
+Define a var with contains a [vector](https://clojure.org/reference/data_structures#Vectors) content:
 
 `(def valid-states [:stopped :stopping :running])`
 
@@ -69,14 +69,20 @@ Return the third element of the vector:
 **Output**
 ![REPL Screenshot - Using Vectors](images/repl_coll_vector.jpg)
 
-
-
-
 ### Maps
+
+Define a var that contains a [map](https://clojure.org/reference/data_structures#Maps):
 
 ### Sets
 
+Define a var that contains a [set](https://clojure.org/reference/data_structures#Sets):
+
+
 ### Lists
+
+Define a var that contains a [list](https://clojure.org/reference/data_structures#Lists):
+
+
 
 
 
