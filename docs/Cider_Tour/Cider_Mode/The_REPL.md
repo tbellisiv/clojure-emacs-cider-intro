@@ -32,7 +32,7 @@ Enter `(map inc [4.2 10 1 4.5 1 15])`
 
 ## Variables
 
-### Defining a Variable (a.k.a. "var")
+### Using Variables (a.k.a. "var")
 
 Define a "var" with string content:
 
@@ -47,6 +47,9 @@ Display the length of the string
 `(count my-string-var)`
 
 **Output**
+![REPL Screenshot - Sum](images/repl_var.jpg)
+
+
 
 
 
