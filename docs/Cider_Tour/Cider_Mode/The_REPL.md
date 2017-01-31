@@ -34,13 +34,16 @@ Enter `(map inc [4.2 10 1 4.5 1 15])`
 
 ### Defining a Variable (a.k.a. "var")
 
-Enter the define a "var" with string content:
+Define a "var" with string content:
 
 `(def my-string-var "Hello, world")`
 
-
+Display the value of the var:
 
 `my-string-var`
+
+Display the length of the string
+
 `(count my-string-var)`
 
 **Output**
