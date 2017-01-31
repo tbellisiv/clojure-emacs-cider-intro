@@ -47,7 +47,7 @@ Display the length of the string
 `(count my-string-var)`
 
 **Output**
-![REPL Screenshot - Sum](images/repl_var.jpg)
+![REPL Screenshot - Using Vars](images/repl_var_use.jpg)
 
 
 
