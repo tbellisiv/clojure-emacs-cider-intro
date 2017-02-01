@@ -9,11 +9,11 @@
   * [Getting Ready](Cider_Tour/Getting_Ready.md)
   * [The Clojure "Tour" Project](Cider_Tour/Tour_Project.md)
   * [Clojure Mode](Cider_Tour/Clojure_Mode.md)
-  * [Cider Mode](Cider_Tour/Cider_Mode/README.md)
+  * [CIDER Mode](Cider_Tour/Cider_Mode/README.md)
   * [The REPL](Cider_Tour/The_REPL/README.md)
     * [A Taste of Clojure](Cider_Tour/The_REPL/Taste_of_Clojure.md)
     * [Running Our Application](Cider_Tour/The_REPL/Cider_Tour_Eval.md)    
-  * [Working in Source Files]
+  * [Working in CIDER Mode](Cider_Tour/Working_in_Cider_Mode/README.md)
     * [Code Evaluation](Cider_Tour/The_REPL/Code_Eval.md)
     * [Viewing Documentation](Cider_Tour/The_REPL/Documentation.md)
     * [Code Completion](Cider_Tour/The_REPL/Completion.md)
