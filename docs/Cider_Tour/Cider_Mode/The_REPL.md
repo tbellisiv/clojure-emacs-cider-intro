@@ -1,6 +1,6 @@
 # Evaluating Code in the REPL
 
-Now that we have a REPL session, let's evaluate some Clojure code.
+Now that we have a REPL session, let's explore some core concepts in Clojure- expressions, vars, data types and functions.
 
 ## Clojure Expressions
 
@@ -32,7 +32,7 @@ Enter `(map inc [4.2 10 1 4.5 1 15])`
 
 ## Variables
 
-### Using Variables (a.k.a. "var")
+### Using Variables (a.k.a. "vars")
 
 Define a "var" with string content:
 
@@ -109,7 +109,16 @@ Return a member if it exists, otherwise return nil:
 
 ### Lists
 
-Define a var that contains a [list](https://clojure.org/reference/data_structures#Lists):
+Define a var that contains a [list](https://clojure.org/reference/data_structures#Lists) of days of the week:
+
+`(def my-list '(:Mon :Tue :Wed :Thu :Fri :Sat :Sun))`
+
+Get the first element in the list:
+
+Get all elements in the list except the first:
+
+Add a new element to the list
+
 
 
 
