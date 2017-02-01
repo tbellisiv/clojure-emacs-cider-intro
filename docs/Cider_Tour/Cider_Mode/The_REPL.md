@@ -115,9 +115,23 @@ Define a var that contains a [list](https://clojure.org/reference/data_structure
 
 Get the first element in the list:
 
-Get all elements in the list except the first:
+`(first my-list)`
 
-Add a new element to the list
+Return a new list consisting of all elements in the list except the first:
+
+`(rest my-list)`
+
+Return a new list consisting of all elements in the list with a new element prepended:
+
+`(conj my-list :Fun)`
+
+**Output**
+![REPL Screenshot - Using List](images/repl_coll_list.jpg)
+
+
+
+
+
 
 
 
