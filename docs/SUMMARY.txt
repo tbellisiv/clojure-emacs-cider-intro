@@ -12,11 +12,11 @@ SUMMARY
   - Getting Ready
   - The Clojure "Tour" Project
   - Clojure Mode
-  - Cider Mode
+  - CIDER Mode
   - The REPL
     - A Taste of Clojure
     - Running Our Application
-  - [Working in Source Files]
+  - Working in CIDER Mode
     - Code Evaluation
     - Viewing Documentation
     - Code Completion
