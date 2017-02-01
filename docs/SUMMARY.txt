@@ -24,9 +24,11 @@ SUMMARY
   - Quitting Cider
 - Spiking CIDER
   - Adding Auto-Completion
-  - Adding Eldoc
-  - Adding Paredit
-  - Adding Rainbow Parens
+  - Eldoc
+  - Paredit
+  - Rainbow Delimiters
+  - Refactoring Support
+  - Turbo-Powered Indentation
 - Architecture of CIDER
 - Debugging
   - Cider Debugger
