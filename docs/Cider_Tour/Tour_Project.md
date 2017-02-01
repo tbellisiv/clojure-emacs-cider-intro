@@ -12,7 +12,7 @@ In  our tour of CIDER we will be working with a Clojure project created for this
 
 In Emacs open the `project.clj` file for the cider-tour project. This is the [Leiningen project file](https://github.com/technomancy/leiningen/blob/stable/doc/TUTORIAL.md#projectclj) (similar to a [Maven POM](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html) file) that defines the project configuration (dependencies, plugins, build profiles, etc.) Below is a screenshot of the cider-tour `project.clj` file:
 
-**project.clj**  
+**Screenshot - project.clj** 
 
 ![project.clj for cider-tour project](images/project_clj.jpg)
 
