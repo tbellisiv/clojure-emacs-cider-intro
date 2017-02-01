@@ -84,12 +84,28 @@ Added a mapping for the _:starting_ state:
 `(assoc state-display-vals :starting "Starting")`
 
 **Output**
-![REPL Screenshot - Using Vectors](images/repl_coll_map.jpg)
+![REPL Screenshot - Using Maps](images/repl_coll_map.jpg)
 
 ### Sets
 
-Define a var that contains a [set](https://clojure.org/reference/data_structures#Sets):
+Define a var that contains a [set](https://clojure.org/reference/data_structures#Sets) of keywords for the days of the week:
 
+`(def my-set #{:Mon :Tue :Wed :Thu :Fri :Sat :Sun})`
+
+Check set membership:
+
+`(contains? days-of-week :Sun)`
+
+`(contains? days-of-week :Fun)`
+
+Return a member if it exists, otherwise return nil:
+
+`(days-of-week :Sun)`
+
+`(days-of-week :Fun)`
+
+**Output**
+![REPL Screenshot - Using Sets](images/repl_coll_set.jpg)
 
 ### Lists
 
