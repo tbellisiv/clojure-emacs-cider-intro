@@ -2,7 +2,7 @@
 
 Now that we have some familiarity with Clojure concepts and syntax, lets turn our attention back to the cider-tour application.
 
-In Emacs open the `core.clj` file in that resides under the `code/clj/cider-tour/src/cider-tour` directory of the GitHub repo.
+In Emacs open the `core.clj` file that resides under the `src/cider-tour` directory of the project.
 
 **Screenshot - core.clj**
 ![Clojure source - core.clj](images/core_clj.jpg)
@@ -15,5 +15,10 @@ In Emacs open the `core.clj` file in that resides under the `code/clj/cider-tour
 
 * A `defn` function call to define a function named `-main` that invokes the `say-hello` function with two arguments.
 
+>FYI
+
+> The `-main` and `say-hello` functions each have an embedded [docstring](https://en.wikipedia.org/wiki/Docstring) that provides inline documentation on the usage of the function. The Clojure [doc](https://clojuredocs.org/clojure.repl/doc) function displays the docstring for a function or var (if defined):
+
+>Entering `(doc -main)` in the REPL returns "Main entrypoint".
 
 
