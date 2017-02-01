@@ -25,7 +25,7 @@
   * [Paredit](Spiking_Cider/Paredit.md)
   * [Rainbow Delimiters](Spiking_Cider/Rainbow_Delimiters.md)
   * [Refactoring Support](Spiking_Cider/Refactoring.md)
-  * [Turbo-Powered Indent](Spiking_Cider/Indent.md)
+  * [Turbo-Powered Indentation](Spiking_Cider/Indentation.md)
 * [Architecture of CIDER](Architecture/README.md)
 * [Debugging](Debugging/README.md)
   * [Cider Debugger](Debugging/Debugger.md)
