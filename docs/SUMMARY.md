@@ -24,6 +24,7 @@
   * [Adding Eldoc](Spiking_Cider/Eldoc.md)
   * [Adding Paredit](Spiking_Cider/Paredit.md)
   * [Adding Rainbow Parens](Spiking_Cider/Paredit.md)
+  * [Refactoring Support](Spiking_Cider/Refactoring.md)
 * [Architecture of CIDER](Architecture/README.md)
 * [Debugging](Debugging/README.md)
   * [Cider Debugger](Debugging/Debugger.md)
