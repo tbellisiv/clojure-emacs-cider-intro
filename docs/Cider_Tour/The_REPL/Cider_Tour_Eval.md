@@ -17,7 +17,7 @@ In Emacs open the `core.clj` file that resides under the `src/cider-tour` direct
 
 >FYI
 
-> The `-main` and `say-hello` functions each have an embedded [docstring](https://en.wikipedia.org/wiki/Docstring) that provides inline documentation on the usage of the function. The Clojure [doc](https://clojuredocs.org/clojure.repl/doc) function returns parameter information and the docstring for a function (if defined).
+> The `-main` and `say-hello` functions each have an embedded [docstring](https://en.wikipedia.org/wiki/Docstring) that provides inline documentation on the usage of the function. The Clojure [doc](https://clojuredocs.org/clojure.repl/doc) function displays parameter information and the docstring for a function (if defined).
 
 >Entering `(doc -main)` in the REPL returns the following: 
 
