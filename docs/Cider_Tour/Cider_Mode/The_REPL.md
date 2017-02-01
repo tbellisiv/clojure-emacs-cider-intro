@@ -30,6 +30,8 @@ Enter `(map inc [4.2 10 1 4.5 1 15])`
 ![REPL Screenshot - Sum](images/repl_expr_map.jpg)
 
 
+
+
 ## Variables
 
 ### Using Variables (a.k.a. "vars")
@@ -128,7 +130,20 @@ Return a new list consisting of all elements in the list with a new element prep
 **Output**
 ![REPL Screenshot - Using List](images/repl_coll_list.jpg)
 
+## Functions
 
+### Defining Functions
+
+Define a function that takes two integer arguments, `x` and `y`, and returns the product `x * y`:
+
+`(defn my-mult [x y] (* x y))`
+
+Invoke the function to multiple two numbers:
+
+`(my-mult 10 50)`
+
+**Output**
+![REPL Screenshot - Defining Functions](images/repl_funcs_define.jpg)
 
 
 
