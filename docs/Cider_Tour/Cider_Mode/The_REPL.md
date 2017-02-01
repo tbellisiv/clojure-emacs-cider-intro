@@ -138,7 +138,7 @@ Define a function that takes two integer arguments, `x` and `y`, and returns the
 
 `(defn my-mult [x y] (* x y))`
 
-Invoke the function to multiple two numbers:
+Invoke the function to multiply two numbers:
 
 `(my-mult 10 50)`
 
