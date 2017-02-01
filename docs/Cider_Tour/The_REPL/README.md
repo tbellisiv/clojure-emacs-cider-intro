@@ -1,4 +1,4 @@
-# Evaluating Code in the REPL
+# A Taste of Clojure
 
 Now that we have a REPL session, let's explore some core concepts in Clojure- expressions, vars, functions and collections.
 
