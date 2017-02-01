@@ -28,7 +28,7 @@ and do one of the following:
 
 In response, CIDER performs the following actions:
 
-* Invokes Leiningen to start a new REPL background process
+* Invokes Leiningen to start a new REPL background process.
 * Sets the default namespace of the REPL to `cider-tour.core` file (as indicated by the <span style="font-weight: bold; color:#d83da3">cider-tour.core&gt;</span> prompt). This namespace maps to a Clojure source file `core.clj` in the `src/cider-tour` sub-directory.
 * Evaluates the `core.clj` file in the REPL.
 * Opens a buffer window for user interaction with the REPL. CIDER displays a helpful banner message in the buffer that provides tips for new users.
