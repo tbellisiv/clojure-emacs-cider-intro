@@ -23,7 +23,7 @@ SUMMARY
     - Running Tests
   - Quitting Cider
 - Spiking CIDER
-  - Adding Auto-Completion
+  - Auto-Completion
   - Eldoc
   - Paredit
   - Rainbow Delimiters
