@@ -20,7 +20,7 @@
     * [Running Tests](Cider_Tour/The_REPL/Tests.md)
   * [Quitting Cider](Cider_Tour/Cider_Mode/Quitting.md)    
 * [Spiking CIDER](Spiking_Cider/README.md)
-  * [Adding Auto-Completion](Spiking_Cider/Auto_Completion.md)
+  * [Auto-Completion](Spiking_Cider/Auto_Completion.md)
   * [Eldoc](Spiking_Cider/Eldoc.md)
   * [Paredit](Spiking_Cider/Paredit.md)
   * [Rainbow Delimiters](Spiking_Cider/Rainbow_Delimiters.md)
