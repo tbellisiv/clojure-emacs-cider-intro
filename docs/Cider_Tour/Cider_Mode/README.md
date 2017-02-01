@@ -13,9 +13,9 @@ The [`clojure-mode`](https://github.com/clojure-emacs/clojure-mode) major mode p
 
 Let's start a REPL session on the cider-tour project.
 
-In Emacs open the `core.clj` file in the  `src/cider-tour` directory:
+In Emacs switch to the `project.clj` that you opened earlier: 
 
-![Clojure source - core.clj](images/core_clj.jpg)
+![Clojure source - core.clj](images/project_clj.jpg)
 
 and do one of the following:
 
