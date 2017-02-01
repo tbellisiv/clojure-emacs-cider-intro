@@ -35,4 +35,17 @@ In response, CIDER performs the following actions:
 
 ![CIDER REPL Buffer Window](images/cider_start_repl.jpg)
 
+# REPL Mode
+
+The mode-line in the above screenshot displays `(REPL)` indicating that `cider-repl-mode` is the major mode. `cider-repl-mode` provides a rich set of functionality for interacting with the REPL including:
+
+* Navigating to source definitions of symbols/functions
+* Documentation lookup of symbols/functions from online references
+* Test execution
+* Browsing classpath and namespaces
+
+Type `C-h f cider-repl-mode [RET]` to view all keybindings for the the mode. The `REPL` menu on the menubar provides access to the most commonly commands.
+
+
+
 
