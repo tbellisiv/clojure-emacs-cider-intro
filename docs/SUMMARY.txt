@@ -8,19 +8,20 @@ SUMMARY
 - Installation
 - Configuration
 - Presentation Materials
-- A Sip of Cider
+- A Sip of CIDER
   - Getting Ready
   - The Clojure "Tour" Project
   - Clojure Mode
   - Cider Mode
-    - Starting Cider
-    - The REPL
-    - Running the Cider "Tour" Project
+  - The REPL
+    - A Taste of Clojure
+    - Running Our Application
+  - [Working in Source Files]
     - Code Evaluation
     - Viewing Documentation
     - Code Completion
-    - Test Execution
-    - Quitting Cider
+    - Running Tests
+  - Quitting Cider
 - Spiking CIDER
   - Adding Auto-Completion
   - Adding Eldoc
@@ -31,6 +32,7 @@ SUMMARY
   - Cider Debugger
   - Function Tracing
   - Stacktraces
+  - CIDER Diagnostics
 - Useful Packages
 - Cool Features
   - Code Reloading
