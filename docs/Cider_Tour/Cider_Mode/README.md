@@ -23,7 +23,7 @@ In Emacs switch to the `project.clj` that you opened earlier:
 and do one of the following:
 
 1. Select 'Start a REPL' from the 'CIDER' menu
-2. Type `M-x cider-jack-in`
+2. Type `M-x cider-jack-in [RET]`
 3. Type `C-c M-j`
 
 In response, CIDER performs the following actions:
