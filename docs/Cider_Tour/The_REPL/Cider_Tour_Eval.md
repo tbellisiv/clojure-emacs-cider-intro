@@ -2,6 +2,8 @@
 
 Now that we have some familiarity with Clojure concepts and syntax, lets turn our attention back to the cider-tour application.
 
+## A Look at the Source
+
 In Emacs open the `core.clj` file that resides under the `src/cider-tour` directory of the project.
 
 **Screenshot - core.clj**
