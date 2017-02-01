@@ -1,35 +1,47 @@
 # Evaluating Code in the REPL
 
-Now that we have a REPL session, let's explore some core concepts in Clojure- expressions, vars, data types and functions.
+Now that we have a REPL session, let's explore some core concepts in Clojure- expressions, vars, functions and collections.
 
-## Clojure Expressions
+## Expressions
 
-#### 1.4 times 67 
-Enter`(* 1.4 67)`
+Calculate 1.4 * 67 :
 
+`(* 1.4 67)`
+
+**Output**
 ![REPL Screenshot - 1.4 * 67](images/repl_expr_mult.jpg)
 
-#### Print "Hello, world!"
-Enter `(println "Hello, world!")`
 
+Print "Hello, world!":
+
+`(println "Hello, world!")`
+
+**Output**
 ![REPL Screenshot - Hello, world!](images/repl_hello_world.jpg)
 
-#### Sort a Vector (Array) of Numbers
-Enter `(sort [4.2 10 1 4.5 1 15])`
 
+Sort a Vector (Array) of Numbers:
+
+`(sort [4.2 10 1 4.5 1 15])`
+
+**Output**
 ![REPL Screenshot - Vector Sort](images/repl_expr_sort.jpg)
 
-#### Sum a Vector of Numbers
-Enter `(reduce + [4.2 10 1 4.5 1 15])`
 
+Sum a Vector of Numbers:
+
+`(reduce + [4.2 10 1 4.5 1 15])`
+
+**Output**
 ![REPL Screenshot - Sum](images/repl_expr_reduce.jpg)
 
-### Increment a Vector of Numbers
-Enter `(map inc [4.2 10 1 4.5 1 15])`
 
+Increment a Vector of Numbers:
+
+`(map inc [4.2 10 1 4.5 1 15])`
+
+**Output**
 ![REPL Screenshot - Sum](images/repl_expr_map.jpg)
-
-
 
 
 ## Variables
@@ -50,6 +62,21 @@ Display the length of the string
 
 **Output**
 ![REPL Screenshot - Using Vars](images/repl_var_use.jpg)
+
+## Functions
+
+### Defining Functions
+
+Define a function that takes two integer arguments, `x` and `y`, and returns the product `x * y`:
+
+`(defn my-mult [x y] (* x y))`
+
+Invoke the function to multiply two numbers:
+
+`(my-mult 10 50)`
+
+**Output**
+![REPL Screenshot - Defining Functions](images/repl_funcs_define.jpg)
 
 
 ## Collections
@@ -130,20 +157,7 @@ Return a new list consisting of all elements in the list with a new element prep
 **Output**
 ![REPL Screenshot - Using List](images/repl_coll_list.jpg)
 
-## Functions
 
-### Defining Functions
-
-Define a function that takes two integer arguments, `x` and `y`, and returns the product `x * y`:
-
-`(defn my-mult [x y] (* x y))`
-
-Invoke the function to multiply two numbers:
-
-`(my-mult 10 50)`
-
-**Output**
-![REPL Screenshot - Defining Functions](images/repl_funcs_define.jpg)
 
 
 
