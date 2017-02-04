@@ -18,7 +18,7 @@ The contents were modified to look like this:
 **Screenshot - core.clj (modified)**
 ![Clojure source - core.clj](images/core_clj.jpg)
 
-It contains the following:
+`core.clj` contains three function calls:
 
 * A `ns` function call to set the namespace to `cider-tour.core` for all functions/vars defined in the file. This is conceptually similar to the `package` statement in Java source files.
 
@@ -33,6 +33,16 @@ It contains the following:
 >Entering `(doc -main)` in the REPL returns the following: 
 
 >![REPL - doc function](images/doc_function.jpg)
+
+# Running the Code
+
+Switch to your REPL window and type `(-main)` to run executeq the main function.
+
+**Output**
+
+![REPL - Running -main](images/repl_exec_main.jpg)
+
+
 
 
 
