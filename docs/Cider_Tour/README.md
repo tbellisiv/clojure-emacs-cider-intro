@@ -5,6 +5,43 @@
 ### [Clojure Mode](Clojure_Mode.md)
 ### [Cider Mode](Cider_Mode/README.md)
 ### [The REPL](The_REPL/README.md)
+### [Working in CIDER Mode](Working_In_Cider_Mode/README.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
