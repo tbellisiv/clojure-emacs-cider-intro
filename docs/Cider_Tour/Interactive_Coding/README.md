@@ -4,7 +4,7 @@ In the previous section we worked directly within the CIDER REPL buffer to run C
 
 The integrated access to the REPL is provided through the `cider-mode` minor that we discussed in [Cider Mode](../Cider_Mode/README.md).
 
-In this section we will leverage the features of a running REPL while editing Clojure source files.
+In this section we will explore the CIDER's features that enable interactive development.
 
 ### [Code Evaluation](Code_Eval.md)
 
