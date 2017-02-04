@@ -5,7 +5,7 @@
 ### [Clojure Mode](Clojure_Mode.md)
 ### [Cider Mode](Cider_Mode/README.md)
 ### [The REPL](The_REPL/README.md)
-### [Working in Cider Mode](Working_In_Cider_Mode/README.md)
+### [Interactive Coding](Interactive_Coding/README.md)
 
 
 
