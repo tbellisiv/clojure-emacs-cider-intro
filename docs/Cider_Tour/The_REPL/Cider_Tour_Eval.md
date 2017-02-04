@@ -46,7 +46,7 @@ Executing `(-main)` invokes the `say-hello` with two arguments- "fellow Emacs us
 
 >**FYI**
 
->In the above screenshot the REPL displays the string `nil` in addition to the "Hello" message. `nil` is the return value of the `-main` function. The REPL displays the return value of the function as well as any output sent to STDOUT. In Clojure the return value of a function is the value of the last evaluated expression in the function. 
+>In the above screenshot the REPL displays the string `nil` after the "Hello" message. `nil` is the return value of the `-main` function. The REPL displays the return value of the function as well as any output sent to STDOUT. In Clojure the return value of a function is the value of the last evaluated expression in the function. 
 
 >The last (only) evaluated expression in our `-main` function was `println` which always returns `nil`. Hence the return value of `-main` was nil (i.e. no value).
 
