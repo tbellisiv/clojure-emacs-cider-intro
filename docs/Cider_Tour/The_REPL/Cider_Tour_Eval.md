@@ -26,7 +26,7 @@ The contents were modified to look like this:
 
 * A `defn` function call to define a function named `-main` that invokes the `say-hello` function with two arguments.
 
->FYI
+>**FYI**
 
 > The `-main` and `say-hello` functions each have an embedded [docstring](https://en.wikipedia.org/wiki/Docstring) that provides inline documentation on the usage of the function. The Clojure [doc](https://clojuredocs.org/clojure.repl/doc) function displays parameter information and the docstring for a function (if defined).
 
