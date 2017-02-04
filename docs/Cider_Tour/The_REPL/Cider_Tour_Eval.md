@@ -36,11 +36,23 @@ The contents were modified to look like this:
 
 # Running the Code
 
-Switch to your REPL window and type `(-main)` to run executeq the main function.
+Switch to your REPL window and type `(-main)` to execute the `-main` function:
 
 **Output**
 
 ![REPL - Running -main](images/repl_exec_main.jpg)
+
+Executing `(-main)` invokes the `say-hello` with two arguments- "fellow Emacs user" and "Tellis (@tbellisiv)".
+
+>**FYI**
+
+>In the above screenshot the REPL displays the string `nil` in addition to the "Hello" message. `nil` is the return value of the `-main` function. The REPL displays the return value of the function as well as any output sent to STDOUT. In Clojure the return value of a function is the value of the last evaluated expression in the function. 
+
+>The last (only) evaluated expression in our `-main` function was `println` which always returns `nil`. Hence the return value of `-main` was nil (i.e. no value).
+
+## Tab Completion
+
+Now, type `(say-` followed by the tab key (`[TAB]`). CIDER will append the string `hello` to complete the `say-hello` symbol defined in our app. Type `)` and then Enter to execute the `say-hello` function with no arguments:
 
 
 
