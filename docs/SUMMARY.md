@@ -13,7 +13,7 @@
   * [The REPL](Cider_Tour/The_REPL/README.md)
     * [A Taste of Clojure](Cider_Tour/The_REPL/Taste_of_Clojure.md)
     * [Running Our Application](Cider_Tour/The_REPL/Cider_Tour_Eval.md)    
-  * [Interactive Coding](Cider_Tour/Interactive_Coding/README.md)
+  * [Interactive Development](Cider_Tour/Interactive_Coding/README.md)
     * [Code Evaluation](Cider_Tour/Interactive_Coding/Code_Eval.md)
     * [Viewing Documentation](Cider_Tour/Interactive_Coding/Documentation.md)
     * [Code Completion](Cider_Tour/Interactive_Coding/Completion.md)
