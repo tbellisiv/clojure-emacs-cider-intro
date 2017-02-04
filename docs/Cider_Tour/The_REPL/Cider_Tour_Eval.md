@@ -54,6 +54,11 @@ Executing `(-main)` invokes the `say-hello` with two arguments- "fellow Emacs us
 
 Now, type `(say-` followed by the tab key (`[TAB]`). CIDER will append the string `hello` to complete the `say-hello` symbol defined in our app. Type `)` and then Enter to execute the `say-hello` function with no arguments:
 
+**Output**
+![REPL - Running say-hello](images/repl_exec_say_hello.jpg)
+
+
+
 
 
 
