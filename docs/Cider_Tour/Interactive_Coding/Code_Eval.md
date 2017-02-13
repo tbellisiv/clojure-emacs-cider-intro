@@ -33,7 +33,7 @@ Note that only that `range` statement is evaluated because it is the expression 
 
 >**FYI**
 
->`C-x C-e` is useful when for evaluating nested expressions.
+>`C-x C-e` is useful when for evaluating nested expressions and inspecting the value of vars.
 
 Now, without moving the cursor, type `C-M-x`:
 
@@ -46,9 +46,8 @@ The keybinding `C-M-x` invokes the `cider-eval-defun-at-point` command which par
 
 >**FYI**
 
-> `C-M-x` is useful for evaluating (or re-evaluating) top-level expressions such as var (`def`) and function (`defn`) definitions. As long as the point is within the expression, the top-level expression will be evaluated.
+> `C-M-x` is useful for evaluating (or re-evaluating) top-level expressions such as var (`def`) and function (`defn`) definitions. As long as the point lies somewhere within the top-level expression, the top-level expression will be evaluated.
 
-The keybinding `C-M-x` invokes the `cider-eval-defun-at-point` command
 
 
 
