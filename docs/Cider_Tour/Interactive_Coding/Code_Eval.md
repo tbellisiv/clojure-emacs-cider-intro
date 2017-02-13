@@ -13,6 +13,8 @@ Open the file `eval.clj` located in the `code/clj/cider-tour/src/cider-tour` dir
 
 ![Clojure Source - eval.clj](images/eval_clj_code.jpg)
 
+## Evaluating Expressions
+
 Position the cursor (i.e. "point") at the end of the `(range 1 6)` statement and type `C-x C-e`:
 
 **Output**
@@ -87,8 +89,33 @@ Next, type the following:
 > 1. The function `my-factorial` is defined in the `cider-tour.eval` namespace and our default namespace in the CIDER REPL buffer was set to `cider-tour.core`.
 > 2. The symbol `my-factorial` in the expression `(my-factorial 10)` is not namespace-qualified. The REPL assumes all symbols that are not namespace-qualified reside in the default namespace. Evaluation of the expression in the REPL buffer with `cider-tour.core` as the default namespace would therefore fail.
 
+## Evaluating Code Blocks
 
+Up to this point we have evaluated individual expressions. CIDER also provides support for evaluating code blocks (i.e. sequences of expressions): buffers, files and regions.
 
+Switch back to the `eval.clj` buffer and type `C-c C-k` to evaluate the entire buffer:
+
+![Output](images/eval_buffer.jpg)
+
+When the entire buffer is evaluated, CIDER displays the return value of the last expression in the minibuffer. The last expresssion  in the buffer is `(println ...)` function call. println always returns nil so the result of evaluating the buffer is nil.
+
+To evaluate a region select a region of expressions and type `C-c C-v C-r`.
+
+To load and evaluate a Clojure file type `C-c C-l` and provide the path to the file.
+
+# Summary
+
+We used the following commands for evaluating expressions in CIDER:
+
+| Keybinding | Command                   | Summary |
+| ---------- | ------------------------- | ------- |
+| C-x C-e    | cider-eval-last-sexp      | Evaluate the expression preceeding point |
+| C-M-x      | cider-eval-defun-at-point | Evaluate the top-level expression containing point | 
+| C-c M-p    | cider-insert-last-sexp-in-repl | Copies the expression preceding point to REPL buffer input line |
+| C-c C-k    | cider-load-buffer | Evaluates the current buffer |
+| C-c C-l    | cider-load-file | Loads the file into a new buffer and evaluates the buffer |
+
+The above commands are indispensable tools in the CIDER toolbox. CIDER provides a wealth of commands for evaluation. The `CIDER Eval` menu list the available commands for code evaluation. 
 
 
 
