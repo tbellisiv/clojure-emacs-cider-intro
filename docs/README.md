@@ -10,7 +10,7 @@ The goal of this presentation is to provide a demonstration of the capabilities 
 
 This presentation assumes that the reader:
 
- * Is an active or experienced [Emacs](https://www.gnu.org/software/emacs/) user.
+ * Is an active or experienced [Emacs](https://www.gnu.org/software/emacs/) user. The reader should understand Emacs' concept of buffers, modes, "point" and notation for Emacs keybindings (e.g. `C-x b`, `C-M-x` and `C-c C-k`).
  * Can install Emacs packages using the [Emacs Lisp Package Archive](https://elpa.gnu.org/) (a.k.a. package.el, ELPA) functionality in Emacs 24.1 and higher.
  * Is comfortable editing the Emacs initialization file (.emacs/.emacs.el/init.el) to add customizations (e.g. keybindings, setting/updating variables). 
  
