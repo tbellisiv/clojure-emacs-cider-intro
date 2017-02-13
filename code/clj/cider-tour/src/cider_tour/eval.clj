@@ -33,7 +33,7 @@
 
 ;; To evaluate (or re-evaluate) the entire buffer type: C-c C-k
 ;; When the entire buffer is evaluated, CIDER displays the return value of the last expression in the minibuffer.
-;; The last expresssion is the above println function call. println always returns nil so the result of evaluating the buffer is nil
+;; The last expresssion is the above println function call. println always returns nil so the result of evaluating the buffer is nil.
 
 
 
