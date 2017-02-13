@@ -57,6 +57,8 @@ The result of the evaluation is the association of the symbol `my-factorial` wit
 
 Now let's evaluate the `my-factorial` function. Position point at the end of the `(my-factorial 10)` line and type `C-x C-e`:
 
+**Output**
+
 
 
 
