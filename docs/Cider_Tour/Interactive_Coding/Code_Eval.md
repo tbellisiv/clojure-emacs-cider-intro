@@ -59,6 +59,39 @@ Now let's evaluate the `my-factorial` function. Position point at the end of the
 
 **Output**
 
+![Output](images/eval_my_factorial_10_01.jpg)
+
+This evaluates the preceding expression.
+
+Next, type the following:
+
+`C-c M-n`
+`C-c M-p [RET]`
+
+`C-c M-n` executes the CIDER function `cider-repl-set-ns` which changes the default namespace of the CIDER REPL buffer to the namespace of the Clojure eval.clj file:
+
+** REPL Output (1/2) **
+
+![Output](images/eval_my_factorial_10_02.jpg)
+
+`C-c M-p` copies the expression preceding point in our eval.clj buffer to the REPL buffer. CIDER switches focus to the REPL buffer. Pressing `[RET]` evaluates the expression:
+
+** REPL Output (2/2) **
+
+![Output](images/eval_my_factorial_10_03.jpg)
+
+
+>**FYI**
+
+>The use of `C-c M-n` to change the namespace in the REPL was necessary for two reasons:
+> 1. The function `my-factorial` is defined in the `cider-tour.eval` namespace and our default namespace in the CIDER REPL buffer was set to `cider-tout.core`.
+> 2. The symbol `my-factorial` in the expression `(my-factorial 10)` is not namespace-qualified. The REPL assumes all symbols that are not namespace-qualified reside in the default namespace. Evaluation of the expression with `cider-tour.core` as the default namespace would therefore fail.
+
+
+
+
+
+
 
 
 
