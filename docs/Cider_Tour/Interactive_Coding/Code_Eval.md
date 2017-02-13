@@ -99,13 +99,13 @@ Switch back to the `eval.clj` buffer and type `C-c C-k` to evaluate the entire b
 
 When the entire buffer is evaluated, CIDER displays the return value of the last expression in the minibuffer. The last expresssion  in the buffer is `(println ...)` function call. println always returns nil so the result of evaluating the buffer is nil.
 
-To evaluate a region select a region of expressions and type `C-c C-v C-r`.
+To evaluate a region select a region of expressions in a buffer and type `C-c C-v C-r`.
 
 To load and evaluate a Clojure file type `C-c C-l` and provide the path to the file.
 
 # Summary
 
-We used the following commands for evaluating expressions in CIDER:
+We explore the following commands for evaluating expressions in CIDER:
 
 | Keybinding | Command                   | Summary |
 | ---------- | ------------------------- | ------- |
@@ -114,6 +114,7 @@ We used the following commands for evaluating expressions in CIDER:
 | C-c M-p    | cider-insert-last-sexp-in-repl | Copies the expression preceding point to REPL buffer input line |
 | C-c C-k    | cider-load-buffer | Evaluates the current buffer |
 | C-c C-l    | cider-load-file | Loads the file into a new buffer and evaluates the buffer |
+| C-c C-v C-r| cider-eval-region | Evaluates a selected region |
 
 The above commands are indispensable tools in the CIDER toolbox. CIDER provides a wealth of commands for evaluation. The `CIDER Eval` menu list the available commands for code evaluation. 
 
