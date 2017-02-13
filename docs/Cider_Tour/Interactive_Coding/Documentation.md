@@ -4,6 +4,7 @@ CIDER provides convenient access to API documentation for application-level Cloj
 
 We will briefly explore the CIDER commands for viewing documentation.
 
-Open the file `doc.clj` located in 
+Let's begin by opening the file `doc.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project.
+
 
 # Core Clojure Library
