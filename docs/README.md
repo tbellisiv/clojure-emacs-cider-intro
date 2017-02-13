@@ -12,8 +12,8 @@ This presentation assumes that the reader:
 
  * Is an active or experienced [Emacs](https://www.gnu.org/software/emacs/) user.
  * Can install Emacs packages using the [Emacs Lisp Package Archive](https://elpa.gnu.org/) (a.k.a. package.el, ELPA) functionality in Emacs 24.1 and higher.
- * Is comfortable editing the Emacs initialization file (.emacs/.emacs.el/init.el) to add customizations (e.g. keybindings, setting/updating variables). 
- 
+ * Is comfortable editing the Emacs initialization file (.emacs, .emacs.el, init.el) to add customizations (e.g. keybindings, setting/updating variables).
+
 For users who have no Emacs experience, the tutorial [How to Use Emacs, an Excellent Clojure Editor](http://www.braveclojure.com/basic-emacs/) on the excellent [Brave Clojure](http://www.braveclojure.com/) site is recommended instead.
 
 ### Git Experience
@@ -22,9 +22,9 @@ For users who have no Emacs experience, the tutorial [How to Use Emacs, an Excel
 
 ### Development Experience
 
-* The presentation assumes the user has some development experience in a mainstream programming language such as C/C++, C#, Java, Python, PHP, Ruby or JavaScript and is familiar with the concepts of functions, variables and data types. 
+* The presentation assumes the user has some development experience in a mainstream programming language such as C/C++, C#, Java, Python, PHP, Ruby or JavaScript and is familiar with the concepts of functions, variables and data types.
 
-* The presentation *does not assume* the user has knowledge of Clojure however experience/familiarity with 
+* The presentation *does not assume* the user has knowledge of Clojure however experience/familiarity with
 other Lisp-derived languages (e.g. [Emacs Lisp](https://www.emacswiki.org/emacs/EmacsLisp), [Common Lisp](https://www.common-lisp.net/) or [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) is helpful *but not required*.
 
 * Java development experience/familiarity is helpful *but not required*.

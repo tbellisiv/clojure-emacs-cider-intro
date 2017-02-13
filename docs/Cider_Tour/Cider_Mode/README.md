@@ -13,7 +13,7 @@ The [`clojure-mode`](https://github.com/clojure-emacs/clojure-mode) major mode p
 
 Let's start a REPL session on the cider-tour project.
 
-In Emacs switch to the `project.clj` that you opened earlier: 
+In Emacs switch to the `project.clj` that you opened earlier:
 
 **Screenshot - project.clj**
 
@@ -39,12 +39,12 @@ In response, CIDER performs the following actions:
 
 The mode-line in the above screenshot displays `(REPL)` indicating that `cider-repl-mode` is the major mode. `cider-repl-mode` provides a rich set of functionality for interacting with the REPL including:
 
-* Navigating to source definitions of symbols/functions
-* Documentation lookup of symbols/functions from online references
+* Navigating to source definitions of symbols/functions (M-.)
+* Documentation lookup of symbols/functions from online references (C-c C-d f)
 * Test execution
 * Browsing classpath and namespaces
 
-Type `C-h f cider-repl-mode [RET]` to view all keybindings for the the mode. The `REPL` menu on the menubar provides access to the most commonly commands.
+Type `C-h m [RET]` to view all keybindings for the the mode. The `REPL` menu on the menubar provides access to the most commonly commands.
 
 
 
