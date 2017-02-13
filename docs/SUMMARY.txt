@@ -16,7 +16,7 @@ SUMMARY
   - The REPL
     - A Taste of Clojure
     - Running Our Application
-  - Working in CIDER Mode
+  - Interactive Development
     - Code Evaluation
     - Viewing Documentation
     - Code Completion
