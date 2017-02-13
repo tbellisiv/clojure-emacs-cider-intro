@@ -4,7 +4,7 @@ In this section we will explore CIDER's support for evaluation of Clojure code.
 
 >**FYI**
 
-> Semicolons are used to indicate the start of comment text in Clojure.
+> A semicolon character is used to indicate the start of comment text in Clojure.
 > Any text that appears after a semicolon is ignored.
 
 Open the file `eval.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project:
@@ -29,13 +29,26 @@ Now let's evaluate a more interesting expression. In the next line of code, posi
 
 ![Output](images/eval_range_5_fact_01.jpg)
 
-Note that only that `range` statement is evaluated because it is the expression that precedes point. `C-x C-e` is useful when for evaluating a nested expression.
+Note that only that `range` statement is evaluated because it is the expression that precedes point. 
+
+>**FYI**
+
+>`C-x C-e` is useful when for evaluating nested expressions.
 
 Now, without moving the cursor, type `C-M-x`:
 
 **Output**
 
 ![Output](images/eval_range_5_fact_02.jpg)
+
+
+The keybinding `C-M-x` invokes the `cider-eval-defun-at-point` command which parses the expression at point to find the top-level expression and then evaluates the top-level expression. In this cause the top-level expression is the `(reduce ...)` function call.
+
+>**FYI**
+
+> `C-M-x` is useful for evaluating (or re-evaluating) top-level expressions such as var (`def`) and function (`defn`) definitions. As long as the point is within the expression, the top-level expression will be evaluated.
+
+The keybinding `C-M-x` invokes the `cider-eval-defun-at-point` command
 
 
 
