@@ -13,7 +13,7 @@ Position point within (or immediately after) `print` in the expression `(print "
 
 ![Output](images/doc_println.jpg) 
 
-`C-c C-d C-d` executes the `cider-doc` command which performs a lookup for documentation metadata attached to Clojure functions.
+`C-c C-d C-d` executes the `cider-doc` command which performs a lookup for documentation metadata embedded within Clojure functions and vars.
 
 Now let's view documentation for an application-level function:
 
