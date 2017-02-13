@@ -27,6 +27,8 @@ Now let's evaluate a more interesting expression. In the next line of code, posi
 
 ** Output**
 
+![Output](images/eval_range_5_fact_01.jpg)
+
 
 
 
