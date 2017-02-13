@@ -49,8 +49,9 @@ The keybinding `C-M-x` invokes the `cider-eval-defun-at-point` command which par
 > `C-M-x` is useful for evaluating (or re-evaluating) top-level expressions such as var (`def`) and function (`defn`) definitions. As long as the point lies somewhere within the top-level expression, the top-level expression will be evaluated.
 
 
+Now, position the cursor within the `(defn my-factorial ...)` expression and type `C-M-x` to evaluate the function definition:
 
-
+![Output](images/eval_my_factorial.jpg)
 
 
 
