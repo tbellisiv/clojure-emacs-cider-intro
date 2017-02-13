@@ -25,9 +25,17 @@ The keybinding `C-x C-e` executes the command `cider-eval-last-sexp` which evalu
 
 Now let's evaluate a more interesting expression. In the next line of code, position point immediately after the end of the `(range 1 (inc 5))` expression and type `C-x C-e`. 
 
-** Output**
+**Output**
 
 ![Output](images/eval_range_5_fact_01.jpg)
+
+Note that only that `range` statement is evaluated because it is the expression that precedes point. `C-x C-e` is useful when for evaluating a nested expression.
+
+Now, without moving the cursor, type `C-M-x`:
+
+**Output**
+
+![Output](images/eval_range_5_fact_02.jpg)
 
 
 
