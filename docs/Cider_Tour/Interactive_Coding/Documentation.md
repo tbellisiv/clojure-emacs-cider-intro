@@ -1,10 +1,15 @@
 # Documentation
 
-CIDER provides convenient access to API documentation for application-level Clojure functions, core Clojure functions, third-party Clojure libraries and Java API's.
+CIDER provides convenient access to local API documentation for application and Clojure functions as well as online documentation for core Clojure functions, third-party Clojure libraries and Java API's.
 
 We will briefly explore the CIDER commands for viewing documentation.
 
 Let's begin by opening the file `doc.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project.
 
 
-# Core Clojure Library
+# Local Clojure API Documentation
+
+Position point within (or immediately after) `print` in the expression `(print "I'm here just for documentation\n.")` expression and type `C-c C-d C-d`. In the minibuffer, CIDER prompts for the symbol to lookup documentation and defaults to the symbol at point: `print`. Hit ENTER to accept the default. CIDER displays a popup-buffer with documentation on the symbol:
+
+![Output](images/doc_println.jpg) 
+
