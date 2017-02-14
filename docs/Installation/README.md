@@ -19,10 +19,10 @@ Clojure is a JVM-based language and therefore requires an installation of Java.
 
 If you do not have Java 1.7 or later installed, install the version of Java appropriate for your OS:
 
-* OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html) 
+* OS X (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-* Windows (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html) 
+* Windows (Oracle Java): [Instructions](https://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html)
 | [Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 * Linux:
@@ -48,20 +48,20 @@ After you have installed Java, ensure that:
 
 [Leiningen](https://leiningen.org/) is the de facto standard project build/automation tool for Clojure. Leiningen serves the same purpose as make, Maven, Gradle, and Rake do for their respective languages.
 
-For Leiningen-based Clojure projects, CIDER uses Leiningen to launch a Clojure REPL from Emacs. 
+For Leiningen-based Clojure projects, CIDER uses Leiningen to launch a Clojure REPL from Emacs.
 
 CIDER also supports Clojure projects that use [Boot](https://github.com/boot-clj/boot) and [Gradle](https://gradle.org/) but this tutorial will cover Leiningen.
 
 The standard installation method for Leiningen varies depending on the OS:
 
-* Linux and Mac OS X:
+* Linux and Mac OS X (this is the preferred installation method):
 
     1. Download the lein [script](https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein)
         * ```curl -O https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein```
     2. Make the script executable:
         * ```chmod a+x lein```
     3. Ensure that the directory containing the ```lein``` script is on your PATH
-    
+
 
 * Windows:
 
@@ -90,7 +90,7 @@ Finally, validate your Leiningen install:
 
 ## CIDER
 
-CIDER is installed via Emacs' builtin-in package management facility, package.el (also known as ELPA- Emacs Lisp Package Archive). CIDER is available in the MELPA package repository. 
+CIDER is installed via Emacs' built-in package management facility, package.el (also known as ELPA- Emacs Lisp Package Archive). CIDER is available in the MELPA package repository.
 
 Ensure that you have the following in your Emacs init file (.emacs/.emacs.el/init.el):
 
