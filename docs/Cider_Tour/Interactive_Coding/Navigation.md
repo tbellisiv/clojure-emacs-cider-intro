@@ -16,9 +16,7 @@ All of the above commands are available on the _Cider Interactions >> Find (jump
 
 In Emacs open the file `nav.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project. 
 
-Position point within the `(say-hello)` expression and type `M-. [RET]`
-
-CIDER jumps to the `core.clj` file where `say-hello` is defined.
+Position point within the `(say-hello)` expression and type `M-. [RET]`. CIDER jumps to the `core.clj` file where `say-hello` is defined.
 
 Now type `M-,`. CIDER jumps back to the `nav.clj` buffer.
 
