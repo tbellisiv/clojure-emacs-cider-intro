@@ -86,7 +86,7 @@ Next, type the following:
 >**FYI**
 
 >The use of `C-c M-n` to change the namespace in the REPL was necessary for two reasons:
-> 1. The function `my-factorial` is defined in the `cider-tour.eval` namespace and our default namespace in the CIDER REPL buffer was set to `cider-tour.core`.
+> 1. The function `my-factorial` is defined in the `cider-tour.eval` namespace and our default namespace in the CIDER REPL buffer was set to `cider-tour.core` (from our previous work in `core.clj`).
 > 2. The symbol `my-factorial` in the expression `(my-factorial 10)` is not namespace-qualified. The REPL assumes all symbols that are not namespace-qualified reside in the default namespace. Evaluation of the expression in the REPL buffer with `cider-tour.core` as the default namespace would therefore fail.
 
 ## Evaluating Code Blocks
@@ -105,7 +105,7 @@ To load and evaluate a Clojure file type `C-c C-l` and provide the path to the f
 
 # Summary
 
-We explore the following commands for evaluating expressions in CIDER:
+We explored the following commands for evaluating Clojure expressions in CIDER:
 
 | Keybinding | Command                   | Summary |
 | ---------- | ------------------------- | ------- |
@@ -116,7 +116,7 @@ We explore the following commands for evaluating expressions in CIDER:
 | C-c C-l    | cider-load-file | Loads the file into a new buffer and evaluates the buffer |
 | C-c C-v C-r| cider-eval-region | Evaluates a selected region |
 
-The above commands are indispensable tools in the CIDER toolbox. CIDER provides a wealth of commands for evaluation. The `CIDER Eval` menu list the available commands for code evaluation. 
+These commands are indispensable tools in the CIDER toolbox. The `CIDER Eval` menu provides the full set of available commands for code evaluation. 
 
 
 
