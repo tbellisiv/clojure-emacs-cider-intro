@@ -16,6 +16,7 @@
   * [Interactive Development](Cider_Tour/Interactive_Coding/README.md)
     * [Code Evaluation](Cider_Tour/Interactive_Coding/Code_Eval.md)
     * [Viewing Documentation](Cider_Tour/Interactive_Coding/Documentation.md)
+    * [Code Navigation](Cider_Tour/Interactive_Coding/Navigation.md)
     * [Code Completion](Cider_Tour/Interactive_Coding/Completion.md)
     * [Running Tests](Cider_Tour/Interactive_Coding/Tests.md)
   * [Quitting Cider](Cider_Tour/Cider_Mode/Quitting.md)    
