@@ -12,11 +12,21 @@ Type `C-c C-v C-n`. This evaluates the `(ns cider-tour.compl ....)` form which i
 
 Now, on a blank line type:
 
-(say-
+`(say-`
 
 and then type `C-M-i`.
 
-CIDER expands "say-" to "say-hello" because there is only matching symbol.
+CIDER expands `say-` to `say-hello` because there is only matching symbol.
+
+On a new line, type:
+
+`(ran`
+
+and then type `C-M-i`.
+
+
+
+
 
 
 
