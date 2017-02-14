@@ -1,3 +1,3 @@
 # Code Completion
 
-Out of the box
+CIDER provides support for code-
