@@ -8,6 +8,8 @@ In Emacs open the file `compl.clj` located in the `code/clj/cider-tour/src/cider
 
 Type `C-c C-v C-n`. This evaluates the `(ns cider-tour.compl ....)` form which imports the `say-hello` function defined in the `core.clj` file.
 
+![Output](images/compl_ns_eval.jpg)
+
 Now, on a blank line type:
 
 (say-
