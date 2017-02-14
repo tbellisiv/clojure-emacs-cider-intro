@@ -46,7 +46,7 @@ In `doc.clj` position back on the `print` function call and type `C-c C-d C-r`. 
 
 ![Output](images/doc_grimoire_buffer.jpg) 
 
-Type `C-c C-d C-w`. CIDER displays the Grimoire documentation for `print` in a broower window:
+Type `C-c C-d C-w`. CIDER displays the Grimoire documentation for `print` in a browser window:
 
 ![Output](images/doc_grimoire_browser.jpg) 
 
