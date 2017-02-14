@@ -28,7 +28,7 @@ and then type `C-M-i`. Since there are multiple possible matches, CIDER displays
 
 # Turbo-Charged Completion
 
-In [Spiking Cider](../Spiking_Cider/README.md) we will add support for the popular [Company Mode](http://company-mode.github.io/) to provide a more interactive and sophisticated code completion mechanism.
+In [Spiking Cider](../../Spiking_Cider/README.md) we will add support for the popular [Company Mode](http://company-mode.github.io/) to provide a more interactive and integrated code completion mechanism.
 
 
 
