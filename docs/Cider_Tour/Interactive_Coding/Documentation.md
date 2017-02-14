@@ -52,6 +52,8 @@ Clojure provides Java interop capability via access to Java classes, interfaces 
 
 In `doc.clj` position point on the string "System/getProperty" and type `C-c C-d C-j [RET]`. This opens a browser window that loads the JavaDoc for the Java System.getProperty() API.
 
+
+
 ## Documentation Search
 
 CIDER also provides commands for searching symbols. These commands as well the documentation lookup commands that we have explored are accessible from the _Cider Interactions >> Documentation_ menu.
