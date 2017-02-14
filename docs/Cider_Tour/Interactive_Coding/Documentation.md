@@ -35,7 +35,7 @@ CIDER displays the the documentation for `is-palindrome?`:
 
 ### Grimoire
 
-CIDER provides integrated access to documentation in [Grimoire](http://www.conj.io)- a community-maintained Clojure documentation repository. Grimoire is essentially a Clojure reference "cheatsheet".
+CIDER provides integrated access to documentation in [Grimoire](http://www.conj.io)- a community-maintained Clojure documentation repository. Grimoire is essentially a Clojure reference cheat-sheet. Unlike the `cider-doc` documentation, Grimoire's documentation typically includes examples and source code (for functions).
 
 CIDER provides two commands for looking up documentation in Grimoire:
 
@@ -46,7 +46,7 @@ In `doc.clj` position back on the `print` function call and type `C-c C-d C-r`. 
 
 ![Output](images/doc_grimoire_buffer.jpg) 
 
-Type `C-c C-d C-w`. CIDER displays the Grimoire documentation for `print` in a browser window:
+Now type `C-c C-d C-w`. CIDER displays the Grimoire documentation for `print` in a browser window:
 
 ![Output](images/doc_grimoire_browser.jpg) 
 
