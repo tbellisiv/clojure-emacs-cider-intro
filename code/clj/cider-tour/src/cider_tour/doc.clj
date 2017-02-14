@@ -13,4 +13,5 @@
 ;; Position point within 'is-palindrome?' below and type 'C-c C-d C-d [RET]' to view documentation.
 (is-palindrome? "racecar")
 
-
+;; Position point within the string 'System/getProperty' below and type 'C-c C-d C-j' to view JavaDoc for System.getProperty()
+(System/getProperty "java.version")
