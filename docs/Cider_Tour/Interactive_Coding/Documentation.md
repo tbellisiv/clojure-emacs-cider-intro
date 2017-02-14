@@ -9,7 +9,7 @@ Let's begin by opening the file `doc.clj` located in the `code/clj/cider-tour/sr
 
 # Local API Documentation
 
-Position point within (or immediately after) `print` in the expression `(print "I'm here just for documentation\n.")` expression and type `C-c C-d C-d`. In the minibuffer, CIDER prompts for the symbol to lookup documentation and defaults to the symbol at point: `print`. Hit ENTER to accept the default. CIDER displays a popup-buffer with documentation on the core Clojure function `print`:
+In `doc.clj` position point within (or immediately after) `print` in the expression `(print "I'm here just for documentation\n.")` expression and type `C-c C-d C-d`. In the minibuffer, CIDER prompts for the symbol to lookup documentation and defaults to the symbol at point: `print`. Hit ENTER to accept the default. CIDER displays a popup-buffer with documentation on the core Clojure function `print`:
 
 ![Output](images/doc_println.jpg) 
 
@@ -48,6 +48,8 @@ CIDER provides two commands for looking up documentation in Grimoire:
 
 ### JavaDoc
 
-Clojure provides Java interop capability via access to Java classes, interfaces, objects. CIDER provides access to the Oracle JavaDoc
+Clojure provides Java interop capability via access to Java classes, interfaces and  objects. CIDER provides access to the Oracle Java API documentation (a.k.a "JavaDoc").
+
+In `doc.clj` position point on the string "System/getProperty" and type `C-c C-d C-j [RET]`. This opens a browser window that loads the JavaDoc for the Java System.getProperty() API.
 
 
