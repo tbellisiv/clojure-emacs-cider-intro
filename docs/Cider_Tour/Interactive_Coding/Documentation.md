@@ -28,7 +28,7 @@ CIDER displays the the documentation for `is-palindrome?`:
 
 >**FYI**
 
-> CIDER provides a major mode (`cider-docview-mode`) for pop-up buffers that display documentation. This is indicated by `(Doc)` on the modeline. `cider-docview-mode` extends the standard Emacs help-mode by providing a 'CiderDoc' menu (and shortcut keys) for navigating the documentation.
+> CIDER provides a major mode (`cider-docview-mode`) for pop-up buffers that display documentation. This is indicated by `(Doc)` on the modeline. `cider-docview-mode` extends the standard Emacs help-mode by providing a 'CiderDoc' menu (and shortcut keys) for navigating documentation and searching symbols.
 
 
 ## Online API Documentation
@@ -45,5 +45,9 @@ CIDER provides two commands for looking up documentation in Grimoire:
 >**Note**
 
 >At the time this presentation was written, the Grimoire documentation function in CIDER was not functional because the [Grimoire](http://www.conj.io) service was offline.
+
+### JavaDoc
+
+Clojure provides Java interop capability via access to Java classes, interfaces, objects. CIDER provides access to the Oracle JavaDoc
 
 
