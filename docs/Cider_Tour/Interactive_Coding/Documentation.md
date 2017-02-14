@@ -13,7 +13,9 @@ Position point within (or immediately after) `print` in the expression `(print "
 
 ![Output](images/doc_println.jpg) 
 
-`C-c C-d C-d` executes the `cider-doc` command which performs a lookup for documentation metadata embedded within Clojure functions and vars.
+`C-c C-d C-d` executes the `cider-doc` command which performs a lookup for documentation metadata embedded within Clojure functions and vars (referred to as "docstrings").
+
+CIDER also provides a link to the `print` function's source code which resides in the file clojure-1.8.0.jar. For core Clojure functions, `cider-doc` also provides links to any related functions.
 
 Now let's view documentation for an application-level function:
 
@@ -24,6 +26,9 @@ CIDER displays the the documentation for `is-palindrome?`:
 
 ![Output](images/doc_palindrome.jpg) 
 
+>**FYI**
+
+> CIDER provides a major mode (`cider-docview-mode`) for pop-up buffers that display documentation. This is indicated by `(Doc)` on the modeline. `cider-docview-mode` extends the standard Emacs help-mode by providing a 'CiderDoc' menu (and shortcut keys) for navigating the documentation.
 
 
 
