@@ -42,9 +42,14 @@ CIDER provides two commands for looking up documentation in Grimoire:
 * `C-c C-d C-r` -- View Grimoire documentation in a popup buffer
 * `C-c C-d C-w` -- View Grimoire documentation in browser
 
->**Note**
+In `doc.clj` position back on the `print` function call and type `C-c C-d C-r`. CIDER displays the Grimoire documentation for `print` in a popup buffer:
 
->At the time this presentation was written, the Grimoire documentation function in CIDER was not functional because the [Grimoire](http://www.conj.io) service was offline.
+![Output](images/doc_grimoire_buffer.jpg) 
+
+Type `C-c C-d C-w`. CIDER displays the Grimoire documentation for `print` in a broower window:
+
+![Output](images/doc_grimoire_browser.jpg) 
+
 
 ### JavaDoc
 
