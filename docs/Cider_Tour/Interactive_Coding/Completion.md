@@ -22,8 +22,9 @@ On a new line, type:
 
 `(ran`
 
-and then type `C-M-i`.
+and then type `C-M-i`. Since there are multiple possible matches, CIDER displays all possible matches in a popup buffer:
 
+![Output](images/compl_multiple.jpg)
 
 
 
