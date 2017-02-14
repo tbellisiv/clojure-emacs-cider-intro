@@ -8,13 +8,25 @@ In Emacs open the file `compl.clj` located in the `code/clj/cider-tour/src/cider
 
 Type `C-c C-v C-n`. This evaluates the `(ns cider-tour.compl ....)` form which imports the `say-hello` function defined in the `core.clj` file.
 
+![Output](images/compl_ns_eval.jpg)
+
 Now, on a blank line type:
 
-(say-
+`(say-`
 
 and then type `C-M-i`.
 
-CIDER expands "say-" to "say-hello" because there is only matching symbol.
+CIDER expands `say-` to `say-hello` because there is only matching symbol.
+
+On a new line, type:
+
+`(ran`
+
+and then type `C-M-i`.
+
+
+
+
 
 
 
