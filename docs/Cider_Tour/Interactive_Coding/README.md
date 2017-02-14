@@ -10,5 +10,7 @@ In this section we will explore CIDER's feature set that enables interactive dev
 
 ### [Code Evaluation](Code_Eval.md)
 
-### [Documentation](Documentation.md)
+### [Viewing Documentation](Documentation.md)
+
+### [Code Completion](Completion.md)
 
