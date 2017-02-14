@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]]
   :main ^:skip-aot cider-tour.core
   :target-path "target/%s"
+  :resource-paths ["resource"]
   :profiles {:uberjar {:aot :all}})
