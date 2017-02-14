@@ -14,10 +14,18 @@ All of the above commands are available on the _Cider Interactions >> Find (jump
 
 ## Hands-On
 
-In Emacs open the file `nav.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project. 
+In Emacs open the file `nav.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project:
+
+**Screenshot - nav.clj**
+
+![Screenshot - nav.clj](images/nav_clj.jpg)
 
 Position point within the `(say-hello)` expression and type `M-. [RET]`. CIDER jumps to the `core.clj` file where `say-hello` is defined.
 
-Now type `M-,`. CIDER jumps back to the `nav.clj` buffer.
+Next, type `M-,`. CIDER jumps back to the `nav.clj` buffer.
+
+Now position point within the string `"my_res.txt"`. This string is the name of a file in the ``code/clj/cider-tour/resource` directory. The `resource` directory is on the classpath. Type `C-c M-.` to load the `my_res.txt` file from the classpath.
+
+
 
 
