@@ -1,6 +1,6 @@
-# Code Completion
+# Basic Code Completion
 
-CIDER provides support for code completion by leveraging the code completion provided by Emacs.
+CIDER provides support for code completion by leveraging the out-of-the-box code completion framework provided by Emacs.
 
 The keybinding `C-M-i` (`complete-symbol`) invokes CIDER's code completion.
 
@@ -25,6 +25,10 @@ On a new line, type:
 and then type `C-M-i`. Since there are multiple possible matches, CIDER displays all possible matches in a popup buffer:
 
 ![Output](images/compl_multiple.jpg)
+
+# Turbo-Charged Completion
+
+In [Spiking Cider](../Spiking_Cider/README.md) we will add support for the popular [Company Mode](http://company-mode.github.io/) to provide a more interactive and sophisticated code completion mechanism.
 
 
 
