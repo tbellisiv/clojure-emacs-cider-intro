@@ -20,11 +20,11 @@ In Emacs open the file `nav.clj` located in the `code/clj/cider-tour/src/cider-t
 
 ![Screenshot - nav.clj](images/nav_clj.jpg)
 
-Position point within the `(say-hello)` expression and type `M-. [RET]`. CIDER jumps to the `core.clj` file where `say-hello` is defined.
+Position point within the `(say-hello)` expression and type `M-. [RET]` to jump to the `core.clj` file where `say-hello` is defined.
 
-Next, type `M-,`. CIDER jumps back to the `nav.clj` buffer.
+Now, type `M-,`. to jump back to the `nav.clj` buffer.
 
-Now position point within the string `"my_res.txt"`. This string is the name of a file in the ``code/clj/cider-tour/resource` directory. The `resource` directory is on the classpath. Type `C-c M-.` to load the `my_res.txt` file from the classpath.
+Next, position point within the string `"my_res.txt"` in the `(def res-data ...)` expression. This string is the name of a file in the ``code/clj/cider-tour/resource` directory. The `resource` directory is on the classpath. Type `C-c M-.` to load the `my_res.txt` file from the classpath.
 
 
 
