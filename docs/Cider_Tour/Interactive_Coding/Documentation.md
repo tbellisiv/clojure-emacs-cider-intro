@@ -1,4 +1,4 @@
-# Documentation
+# API Documentation
 
 CIDER provides convenient access to local API documentation for application and Clojure functions as well as online documentation for core Clojure functions, third-party Clojure libraries and Java API's.
 
@@ -7,7 +7,7 @@ We will briefly explore the CIDER commands for viewing documentation.
 Let's begin by opening the file `doc.clj` located in the `code/clj/cider-tour/src/cider-tour` directory of the GitHub project.
 
 
-# Local Clojure API Documentation
+# Local API Documentation
 
 Position point within (or immediately after) `print` in the expression `(print "I'm here just for documentation\n.")` expression and type `C-c C-d C-d`. In the minibuffer, CIDER prompts for the symbol to lookup documentation and defaults to the symbol at point: `print`. Hit ENTER to accept the default. CIDER displays a popup-buffer with documentation on the core Clojure function `print`:
 
@@ -31,7 +31,19 @@ CIDER displays the the documentation for `is-palindrome?`:
 > CIDER provides a major mode (`cider-docview-mode`) for pop-up buffers that display documentation. This is indicated by `(Doc)` on the modeline. `cider-docview-mode` extends the standard Emacs help-mode by providing a 'CiderDoc' menu (and shortcut keys) for navigating the documentation.
 
 
+## Online API Documentation
 
+### Grimoire
 
+CIDER provides integrated access to documentation in [Grimoire](http://www.conj.io)- a community-maintained Clojure documentation repository. Grimoire is essentially a Clojure reference "cheatsheet".
+
+CIDER provides two commands for looking up documentation in Grimoire:
+
+* `C-c C-d C-r` -- View Grimoire documentation in a popup buffer
+* `C-c C-d C-w` -- View Grimoire documentation in browser
+
+>**Note**
+
+>At the time this presentation was written, the Grimoire documentation function in CIDER was not functional because the [Grimoire](http://www.conj.io) service was offline.
 
 
