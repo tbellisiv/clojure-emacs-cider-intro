@@ -1,6 +1,6 @@
 # Paredit
 
-[Paredit](https://www.emacswiki.org/emacs/ParEdit) is a minor mode that facilitates the structural manipulation and navigation within LISP S-sxpressions. 
+[Paredit](https://www.emacswiki.org/emacs/ParEdit) is a minor mode that facilitates the structural manipulation and navigation within LISP S-expressions. 
 
 # Configuring Paredit
 
