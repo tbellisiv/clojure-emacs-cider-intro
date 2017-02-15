@@ -24,7 +24,11 @@ Position point within the `(say-hello)` expression and type `M-. [RET]` to jump 
 
 Now, type `M-,`. to jump back to the `nav.clj` buffer.
 
-Next, position point within the string `"my_res.txt"` in the `(def res-data ...)` expression. This string is the name of a file in the ``code/clj/cider-tour/resource` directory. The `resource` directory is on the classpath. Type `C-c M-.` to load the `my_res.txt` file from the classpath.
+Next, position point within the string `"my_res.txt"` in the `(def res-data ...)` expression. This string is the name of a file in the ``code/clj/cider-tour/resource` directory. The `resource` directory is on the classpath. Type `C-c M-. [RET]` to load the `my_res.txt` file from the classpath.
+
+**Screenshot - my_res.txt**
+
+![Screenshot - nav.clj](images/my_res_text.jpg)
 
 
 
