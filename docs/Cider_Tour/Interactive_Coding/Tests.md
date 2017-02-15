@@ -32,7 +32,11 @@ Now let's run a specific test. Switch to the `palindrome_test.clj` buffer, posit
 
 ![test_result_single.jpg](images/test_result_single.jpg)
 
-Now let's cause a unit test to fail
+Now let's fabricate a unit test failure:
+
+ * Within the `(deftest string-palindrome-test-pos ...)` expression change "racecar" to "racecars".
+ * Type `C-c C-k` to update the code in the REPL. 
+ * Type `C-c C-t C-n` to re-run the unit tests
 
 
 
