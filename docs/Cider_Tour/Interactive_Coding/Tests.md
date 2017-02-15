@@ -43,6 +43,16 @@ CIDER highlights the failed test and opens the \*cider-test-report\* to display 
 
 ![test_report_failure.jpg](images/test_report_failure.jpg)
 
+## More Information
+
+In addition to running individual unit tests and all running all unit tests within a namespace, CIDER provides support for:
+
+ * Running all unit tests in a project (`C-c C-t C-p`).
+ * Running all unit tests loaded in the REPL (`C-c C-t C-l`).
+ * Auto-running unit tests when a buffer is loaded/reloaded in the REPL (`C-c C-k`). This is accomplished by enabling the `cider-auto-test-mode` minor mode. This can be enabled on-demand by typing `M-x cider-auto-test-mode` or permanently by adding `(cider-auto-test-mode 1)` to your init.el.
+
+The full set of test-related commands can be viewed from the _CIDER Interactions >> Test_ menu.
+
 
 
 
