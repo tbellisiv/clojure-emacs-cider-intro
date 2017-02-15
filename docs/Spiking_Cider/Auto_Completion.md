@@ -17,6 +17,12 @@ To configure company-mode in Emacs do the following:
 (add-hook 'cider-repl-mode-hook #'company-mode)
 (add-hook 'cider-mode-hook #'company-mode)
 (add-hook 'clojure-mode-hook #'company-mode)
+
+;; To make tab complete, without losing the ability to manually indent
+(global-set-key (kbd "TAB") #'company-indent-or-complete-common)
+(global-set-key (kbd "M-TAB") #'company-indent-or-complete-common)
+(global-set-key (kbd "<C-return>") #'company-indent-or-complete-common)
+(global-set-key (kbd "<C-tab>") #'company-indent-or-complete-common)
 ```
 
 
