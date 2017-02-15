@@ -6,7 +6,18 @@ Out of the box, CIDER provides support for code completion by leveraging Emacs' 
 
 To configure company-mode in Emacs do the following:
 
-1. Install the company-mode package: `M-x package-install company [RET]`
+1. Install the company-mode package: `M-x package-install [RET] company [RET]`
+2. Add the following lines to your Emacs init file:
+
+```
+;; Enable company-mode globally
+(add-hook 'after-init-hook 'global-company-mode)
+
+;; Enable company-mode inside for Clojure source, CIDER mode and CIDER REPL buffers
+(add-hook 'cider-repl-mode-hook #'company-mode)
+(add-hook 'cider-mode-hook #'company-mode)
+(add-hook 'clojure-mode-hook #'company-mode)
+```
 
 
 
