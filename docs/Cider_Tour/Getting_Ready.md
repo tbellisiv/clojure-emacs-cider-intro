@@ -4,9 +4,9 @@
 
 Before we get started, make sure you have:
 
-* Installed CIDER and it's prerequisites (see [Installation](../../Installation/README.md))
+* Installed CIDER and it's prerequisites (see [Installation](../Installation/README.md))
     
-*  Configured your Leiningen install to use the CIDER REPL plugin (see [Configuration](../../Configuration/README.md))
+*  Configured your Leiningen install to use the CIDER REPL plugin (see [Configuration](../Configuration/README.md))
 
 * Cloned the [GitHub](https://github.com/tbellisiv/clojure-emacs-cider-intro) repository (see [Presentation Materials](../Presentation_Materials/README.md))
 
