@@ -12,6 +12,9 @@ Open the file `palindrome.clj` located in the `code/clj/cider-tour/src/cider-tou
 
 In another buffer or frame open the file `palindrome_test.clj` located in the `code/clj/cider-tour/test/cider-tour` directory of the GitHub project:
 
+![palindrome_test_clj.jpg](images/palindrome_test_clj.jpg)
+
+
 
 
 
