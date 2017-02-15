@@ -28,7 +28,7 @@ Next, position point within the string `"my_res.txt"` in the `(def res-data ...)
 
 **Screenshot - my_res.txt**
 
-![Screenshot - nav.clj](images/my_res_text.jpg)
+![Screenshot - my_res.txt](images/my_res_text.jpg)
 
 
 
