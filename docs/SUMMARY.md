@@ -26,17 +26,11 @@
   * [Rainbow Delimiters](Spiking_Cider/Rainbow_Delimiters.md)
   * [Refactoring Support](Spiking_Cider/Refactoring.md)
   * [Turbo-Powered Indentation](Spiking_Cider/Indentation.md)
-* [Architecture of CIDER](Architecture/README.md)
 * [Debugging](Debugging/README.md)
   * [Cider Debugger](Debugging/Debugger.md)
   * [Function Tracing](Debugging/Tracing.md)
   * [Stacktraces](Debugging/Stacktraces.md)
   * [CIDER Diagnostics](Debugging/Diagnostics.md)
-* [Useful Packages](Extra_Packages/README.md)
-* [Cool Features](Misc/README.md)
-  * [Code Reloading](Misc/Code_Reloading.md)
-  * [Enlighten Mode](Misc/Enlighten_Mode.md)
-  * [Classpath Browser](Misc/Classpath_Browser.md)
 * [More Information](Resources/README.md)
 
 
