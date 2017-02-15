@@ -6,7 +6,7 @@ Out of the box, CIDER provides support for code completion by leveraging Emacs' 
 
 To configure company-mode in Emacs do the following:
 
-1. Install the company-mode package: `M-x package-install company-mode {RET]`
+1. Install the company-mode package: `M-x package-install company [RET]`
 
 
 
