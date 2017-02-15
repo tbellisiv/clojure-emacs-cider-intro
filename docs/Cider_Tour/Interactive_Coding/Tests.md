@@ -22,6 +22,12 @@ CIDER displays a summary of the results in the minibuffer:
 
 ![test_result_all_namespace.jpg](images/test_result_all_namespace.jpg)
 
+For details on test results, CIDER creates a buffer (\*cider-test-report\*) that provides details on the test execution including any errors:
+
+![test_report_success.jpg](images/test_report_success.jpg)
+
+
+
 
 
 
