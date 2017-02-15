@@ -2,7 +2,7 @@
 
 A [GitBook](https://tbellisiv.gitbooks.io/clojure-emacs-cider-intro) with accompanying sample Clojure code that provides an introduction to the CIDER Clojure IDE for Emacs Users.
 
-Initially created as a presentation for an Austin "EmacsATX" Meetup - https://www.meetup.com/EmacsATX/
+The Gitbook was created for a presentation for the February 2017 Austin "EmacsATX" meetup - https://www.meetup.com/EmacsATX/
 
 Contents:
 
