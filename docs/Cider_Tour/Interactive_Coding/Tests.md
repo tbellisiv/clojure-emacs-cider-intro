@@ -16,9 +16,13 @@ In another buffer or frame open the file `palindrome_test.clj` located in the `c
 
 `palindrome_test.clj` contains the unit tests for functions defined in the `cider-tour.palindrome` namespace.
 
-Now switch focus back to `palindrome.clj` and run all unit tests for the namespace by typing `C-c C-t C-n`:
+Now switch focus back to `palindrome.clj` and run all unit tests for the `cider-tour.palindrome` namespace by typing `C-c C-t C-n`:
 
 CIDER displays a summary of the results in the minibuffer:
+
+![test_result_all_namespace.jpg](images/test_result_all_namespace.jpg)
+
+
 
 
 
