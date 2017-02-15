@@ -12,8 +12,6 @@ To configure aggressive-indent-mode in Emacs do the following:
 ```
 ;; Enable aggressive indent mode for CIDER mode
 (add-hook 'cider-mode-hook #'aggressive-indent)
-
 ```
 
-## Additional Resources
 
