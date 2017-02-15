@@ -8,7 +8,7 @@ Before we get started, make sure you have:
     
 *  Configured your Leiningen install to use the CIDER REPL plugin (see [Configuration](../../Configuration/README.md))
 
-* Cloned the [GitHub](https://github.com/tbellisiv/clojure-emacs-cider-intro) repository (see [Presentation Materials](../../Presentation_Materials/README.md))
+* Cloned the [GitHub](https://github.com/tbellisiv/clojure-emacs-cider-intro) repository (see [Presentation Materials](../Presentation_Materials/README.md))
 
 ## Notes
 
