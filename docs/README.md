@@ -47,10 +47,6 @@ GNU Emacs 25.1 on Linux (Fedora 24) was used to create the content (screenshots,
 
 
 
-# Acknowledgements
-
-TBD
-
 # Contributions / Questions / Suggestions
 
 The GitBook markdown source, sample Clojure code and Emacs configuration files are available in the GitHub [project](https://github.com/tbellisiv/clojure-emacs-cider-intro). PR's for corrections/enhancements are welcome.
