@@ -12,7 +12,7 @@ The Clojure code and projects referenced in this presentation are located in the
 
 ### Emacs Initialization Files
 
-For the majority of the presentation a base Emacs init file ([init.el](https://github.com/tbellisiv/clojure-emacs-cider-intro/blob/master/code/elisp/init_file/00_base/init.el)) will be used for the hands-on exercises. In [Spiking CIDER](Spiking Cider/README.md) we will progressively update the base init file to enhance the CIDER development experience.
+For the majority of the presentation a base Emacs init file ([init.el](https://github.com/tbellisiv/clojure-emacs-cider-intro/blob/master/code/elisp/init_file/00_base/init.el)) will be used for the hands-on exercises. In [Spiking CIDER](Spiking_Cider/README.md) we will progressively update the base init file to enhance the CIDER development experience.
 
 The base [init.el](https://github.com/tbellisiv/clojure-emacs-cider-intro/blob/master/code/elisp/init_file/00_base/init.el) contains the minimal configuration necessary to enable installation of Emacs packages such as CIDER.
 
