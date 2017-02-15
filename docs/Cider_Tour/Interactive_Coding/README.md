@@ -16,3 +16,7 @@ In this section we will explore CIDER's feature set that enables interactive dev
 
 ### [Code Completion](Completion.md)
 
+### [Running Tests](Tests.md)
+
+
+
