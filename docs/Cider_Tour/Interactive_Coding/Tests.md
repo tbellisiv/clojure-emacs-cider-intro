@@ -35,8 +35,14 @@ Now let's run a specific test. Switch to the `palindrome_test.clj` buffer, posit
 Now let's fabricate a unit test failure:
 
  * Within the `(deftest string-palindrome-test-pos ...)` expression change "racecar" to "racecars".
+ * Type `C-x C-s` to save the changes.
  * Type `C-c C-k` to update the code in the REPL. 
  * Type `C-c C-t C-n` to re-run the unit tests
+
+CIDER highlights the failed test and opens the \*cider-test-report\* to display details on the tests:
+
+![test_report_failure.jpg](images/test_report_failure.jpg)
+
 
 
 
