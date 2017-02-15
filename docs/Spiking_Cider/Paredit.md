@@ -2,7 +2,7 @@
 
 [Paredit](https://www.emacswiki.org/emacs/ParEdit) is a minor mode that facilitates the structural manipulation and navigation within LISP S-expressions. 
 
-# Configuring Paredit
+## Configuring Paredit
 
 To configure company-mode in Emacs do the following:
 
@@ -15,4 +15,10 @@ To configure company-mode in Emacs do the following:
 (add-hook 'cider-mode-hook #'paredit-mode)
 (add-hook 'clojure-mode-hook #'paredit-mode)
 ```
+
+## Additional Resources
+
+[Animated Guide to Paredit](http://danmidwood.com/content/2014/11/21/animated-paredit.html)
+[Emacs Rocks! Paredit](http://emacsrocks.com/e14.html)
+[Paredit Cheat Sheet](https://www.emacswiki.org/emacs/PareditCheatsheet)
 
