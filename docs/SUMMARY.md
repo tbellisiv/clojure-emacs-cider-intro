@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Overview](Overview/README.md)
+* [Presentation Materials](Presentation_Materials/README.md)
 * [Installation](Installation/README.md)
 * [Configuration](Configuration/README.md)
-* [Presentation Materials](Presentation_Materials/README.md)
 * [A Sip of CIDER](Cider_Tour/README.md)
   * [Getting Ready](Cider_Tour/Getting_Ready.md)
   * [The Clojure "Tour" Project](Cider_Tour/Tour_Project.md)
