@@ -26,10 +26,13 @@ For details on test results, CIDER creates a buffer (\*cider-test-report\*) that
 
 ![test_report_success.jpg](images/test_report_success.jpg)
 
-Now let's run a specific test. Switch to the `palindrome_test.clj` buffer, position point within the `(deftest string-palindrome-test-pos ...)` expression and type `C-c C-t C-t`. CIDER displays the results for test execution in the minibuffer:
+CIDER provides a _Test-Report_ menu (with shortcut keys) to facilitate navigation and running of tests within (\*cider-test-report\*) the buffer.
+
+Now let's run a specific test. Switch to the `palindrome_test.clj` buffer, position point within the `(deftest string-palindrome-test-pos ...)` expression and type `C-c C-t C-t`. CIDER displays the results for the unit test in the minibuffer:
 
 ![test_result_single.jpg](images/test_result_single.jpg)
 
+Now let's cause a unit test to fail
 
 
 
