@@ -46,6 +46,20 @@ The mode-line in the above screenshot displays `(REPL)` indicating that `cider-r
 
 Type `C-h m [RET]` to view all keybindings for the the mode. The `REPL` menu on the menubar provides access to the most commonly commands.
 
+# Quitting CIDER
+
+To exit CIDER, do one of the following:
+
+* Type `C-c C-q`
+* Type `M-x cider-quit [RET]`
+* Select _CIDER >> Quit_ from the menu.
+* Kill the CIDER REPL buffer for your project (in our case the buffer is named `*cider-repl cider-tour*`.
+
+CIDER will prompt to confirm exit CIDER and will prompt to confirm the termination of the background REPL process.
+
+
+
+
 
 
 
