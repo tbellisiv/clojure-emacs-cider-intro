@@ -8,7 +8,5 @@ In this section will enhance the CIDER development experience through the additi
 ### [Rainbow Delimiters Mode](Rainbow_Delimiters.md)
 ### [Aggressive Indent Mode](Indentation.md)
 
-Aggressive Indent Mode
-
 
 
