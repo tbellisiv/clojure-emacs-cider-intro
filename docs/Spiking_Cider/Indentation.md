@@ -10,10 +10,9 @@ To configure aggressive-indent-mode in Emacs do the following:
 2. Add the following lines to your Emacs init file:
 
 ```
-;; Enable paredit mode for Clojure buffers, CIDER mode and CIDER REPL buffers
-(add-hook 'cider-repl-mode-hook #'paredit-mode)
-(add-hook 'cider-mode-hook #'paredit-mode)
-(add-hook 'clojure-mode-hook #'paredit-mode)
+;; Enable aggressive indent mode for CIDER mode
+(add-hook 'cider-mode-hook #'aggressive-indent)
+
 ```
 
 ## Additional Resources
