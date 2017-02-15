@@ -4,13 +4,7 @@
 
 # Clojure
 
-TBD
-
-# CLojureScript
-
-TBD
-
-
+[Clojure](https://clojure.org/) is a dialect of the LISP language that runs on the Java Virtual Machine. Clojure provides strong support for several modern programming paradigms- functional programming, concurrency and immutability. Clojure was created by [Rich Hickey](https://twitter.com/richhickey?) and first released in 2009. Clojure is opensource and is maintained under the stewardship of [Cognitect](http://cognitect.com/).
 
 
 
