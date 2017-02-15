@@ -11,5 +11,5 @@
 ;; Enable rainbow delimiters for Clojure buffers, CIDER mode and CIDER REPL buffers
 (add-hook 'cider-repl-mode-hook 'rainbow-delimiters-mode) 
 (add-hook 'cider-mode-hook 'rainbow-delimiters-mode)
-(add-hook 'clojure-mode-hook #'rainbow-delimiters-mode)
+(add-hook 'clojure-mode-hook 'rainbow-delimiters-mode)
 ```
