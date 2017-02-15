@@ -21,7 +21,7 @@
     * [Running Tests](Cider_Tour/Interactive_Coding/Tests.md)   
 * [Spiking CIDER](Spiking_Cider/README.md)
   * [Auto-Completion](Spiking_Cider/Auto_Completion.md)
-  * [Eldoc](Spiking_Cider/Eldoc.md)
+  * [Eldoc Support](Spiking_Cider/Eldoc.md)
   * [Paredit](Spiking_Cider/Paredit.md)
   * [Rainbow Delimiters](Spiking_Cider/Rainbow_Delimiters.md)
   * [Turbo-Powered Indentation](Spiking_Cider/Indentation.md)
